@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>William E. Kirwan Hall</p>
-    <p>Department of Mathematics</p>
+    <p>Dept. of Mathematics</p>
     <p>College Park, Maryland 20740</p>
 
 news: true # includes a list of news items
@@ -27,3 +27,5 @@ Welcome! I am a graduate student in the [Department of Mathematics](https://www-
 The slogan **Pure × Applied** captures my philosophy in approaching mathematics. I keep an open mind, and I am keen to learn new mathematical techniques to solve problems of interest to me.
 
   "*There is no branch of mathematics, however abstract, which may not someday be applied to phenomena of the real world.*" -- Nikolai Lobachevsky
+  
+  You can [view my CV here]({% link /assets/pdf/CV/CV.pdf %}).

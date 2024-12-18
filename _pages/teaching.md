@@ -14,11 +14,11 @@ nav_order: 3
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
-        <h5 id="math120" class="card-title">Elementary Calculus</h5>
+        <h5 id="Math120" class="card-title">Elementary Calculus</h5>
         <h6 class="card-subtitle font-italic">Instructor, Summer '24</h6>
       </div>
       <div class="col-sm-2 text-sm-right">
-        <span class="badge">
+        <span class="badge" style="background-color: purple; color: black;">
           MATH 120
         </span>
       </div>
@@ -42,16 +42,16 @@ nav_order: 3
 </div>
 
 
-<!-- MATH 740 Spring 24 -->
+<!-- MATH 740 (Diff. Geo) Spring 24 -->
 <div class="card mt-3">
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
-        <h5 id="math141" class="card-title">Fundamental Concepts of Differential Geometry</h5>
+        <h5 id="math740" class="card-title">Differential Geometry</h5>
         <h6 class="card-subtitle font-italic">Grader and Guest Lecturer, Spring '24</h6>
       </div>
       <div class="col-sm-2 text-sm-right">
-        <span class="badge">
+        <span class="badge" style="background-color: purple; color: black;">
           MATH 740
         </span>
       </div>
@@ -85,7 +85,7 @@ nav_order: 3
         <h6 class="card-subtitle font-italic">Instructor, Summer '22</h6>
       </div>
       <div class="col-sm-2 text-sm-right">
-        <span class="badge">
+        <span class="badge" style="background-color: purple; color: black;">
           MATH 141
         </span>
       </div>

@@ -1,14 +1,7 @@
 github_users:
-  - torvalds
-  - alshedivat
-
-repo_description_lines_max: 2
+  - Junaid-Aftab
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - Junaid-Aftab/AMSC-661-Scientific-Computing
+  - Junaid-Aftab/CMSC764-Numerical-Optimization
+  - Junaid-Aftab/DeepQ-learning-algorithm

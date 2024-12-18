@@ -6,3 +6,7 @@ description: During graduate school, I wrote LaTeX notes on various topics I lea
 nav: true
 nav_order: 2
 ---
+
+<h3 id="umd">Graduate School</h3>
+
+* MATH 744: Lie Theory. <a href= "/assets/pdf/Lie-Theory/Lie_Theory.pdf">Notes</a> 

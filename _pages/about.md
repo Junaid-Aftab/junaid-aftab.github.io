@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Student in Mathematics at University of Maryland, College Park.
+subtitle: PhD Student in Mathematics at University of Maryland, College Park. 
 
 profile:
   align: right

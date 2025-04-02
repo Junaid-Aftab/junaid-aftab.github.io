@@ -10,5 +10,6 @@ nav_order: 2
 
 <h3 id="umd">Graduate School</h3>
 
+* C^* Algebras. <a href= "/assets/pdf/Notes/Lie-Theory/C_Star.pdf">Notes</a> 
 * Homology. <a href= "/assets/pdf/Notes/Homology/Homology.pdf">Notes</a> 
 * Lie Theory. <a href= "/assets/pdf/Notes/Lie-Theory/Lie_Theory.pdf">Notes</a> 

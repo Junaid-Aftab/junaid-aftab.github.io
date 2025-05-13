@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Welcome! I am a graduate student in the [Department of Mathematics](https://www-math.umd.edu/people/graduate-students.html) at the University of Maryland, College Park.  My research interests are in mathematical problems arising in quantum information science. I am interested in the following topics:
+Hi! I am a graduate student in the [Department of Mathematics](https://www-math.umd.edu/people/graduate-students.html) at the University of Maryland, College Park.  My research interests are in mathematical problems arising in quantum information science. I am interested in the following topics:
 
 * Quantum Algorithms
 * Classification of Topological Phases of Matter (TPM)

@@ -8,7 +8,7 @@ nav: true
 nav_order: 2
 ---
 
-#<h3 id="umd">Graduate School</h3>
+<h3 id="umd">Graduate School</h3>
 
 * Algebraic Topology. <a href= "/assets/pdf/Notes/Algebraic-Topology/Algebraic_Topology.pdf">Notes</a> 
 * C* Algebras. <a href= "/assets/pdf/Notes/C-Star/C_Star.pdf">Notes</a> 

@@ -2,25 +2,92 @@
 layout: page
 permalink: /notes/
 title: Notes
-description: This page contains notes I’ve written while studying various mathematical topics. Some of these notes remain works in progress. Feel free to explore the notes. If you spot any errors or typos, I’d greatly appreciate it if you let me know by emailing me at junaid.aftab1994@gmail.com.
+description: This page contains notes I’ve written while studying various mathematical topics. 
 
 nav: true
 nav_order: 2
 ---
 
-<h5 id="umd">Algebraic Topology</h5>
-* Homology. <a href= "/assets/pdf/Notes/Algebraic-Topology/Homology.pdf">Notes.</a> 
-* Cohomology. <a href= "/assets/pdf/Notes/Algebraic-Topology/Cohomology.pdf">Notes.</a> 
-* Homotopy. <a href= "/assets/pdf/Notes/Algebraic-Topology/Homotopy.pdf">Notes.</a> 
-* Notes on (co)homology and homotopy in book format. <a href= "/assets/pdf/Notes/Algebraic-Topology/Book.pdf">Book.</a> 
 
-<h5 id="umd">Homological Algebra</h5>
-* Derived Functors. <a href= "/assets/pdf/Notes/Homological-Algebra/Derived_Functors.pdf">Notes.</a> 
-* Spectral Sequences. <a href= "/assets/pdf/Notes/Homological-Algebra/Spectral_Sequences.pdf">Notes.</a> 
+These notes were written for personal reference, so they may not be properly referenced/formatted, and some remain unfinished. Feel free to explore them. If you spot any typos, please let me know at <a href="mailto:junaid.aftab1994@gmail.com">junaid.aftab1994@gmail.com</a>.
 
-<h5 id="umd">Lie Theory</h5>
-* Lie Groups. <a href= "/assets/pdf/Notes/Lie-Theory/Lie-Groups.pdf">Notes.</a> 
+<style>
+  .bullet-item::before {
+    content: "•";
+    display: inline-block;
+    color: black;
+    margin-right: 6px;
+    transform: scale(1.5); /* Increase bullet size only */
+    line-height: 0; /* helps with vertical alignment */
+  }
+</style>
 
-<h5 id="umd">Operator Algebras</h5>
-* C*-Algebras. <a href= "/assets/pdf/Notes/C-Star/C_Star.pdf">Notes.</a> 
+<table style="width: 100%; border-collapse: collapse;">
+  <thead>
+    <tr>
+      <th colspan="2" style="text-align: left; padding: 8px; background-color: #f2f2f2;">
+        <strong>Algebraic Topology</strong>
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="bullet-item" style="padding: 1px;">Singular Homology &amp; Cohomology</td>
+      <td style="padding: 1px;"><a href="/assets/pdf/Notes/Algebraic-Topology/Hom-Cohom.pdf" style="text-decoration: none;">Notes</a></td>
+    </tr>
+    <tr>
+      <td class="bullet-item" style="padding: 1px;">Classical Homotopy Theory</td>
+      <td style="padding: 1px;"><a href="/assets/pdf/Notes/Algebraic-Topology/Homotopy.pdf" style="text-decoration: none;">Notes</a></td>
+    </tr>
+    <tr>
+      <td class="bullet-item" style="padding: 1px;">Homology, Cohomology &amp; Homotopy (book)</td>
+      <td style="padding: 1px;"><a href="/assets/pdf/Notes/Algebraic-Topology/Book.pdf" style="text-decoration: none;">Book</a></td>
+    </tr>
+  </tbody>
 
+  <thead>
+    <tr>
+      <th colspan="2" style="text-align: left; padding: 8px; background-color: #f2f2f2;">
+        <strong>Homological Algebra</strong>
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="bullet-item" style="padding: 1px;">Derived Functors</td>
+      <td style="padding: 1px;"><a href="/assets/pdf/Notes/Homological-Algebra/Derived_Functors.pdf" style="text-decoration: none;">Notes</a></td>
+    </tr>
+    <tr>
+      <td class="bullet-item" style="padding: 1px;">Spectral Sequences</td>
+      <td style="padding: 1px;"><a href="/assets/pdf/Notes/Homological-Algebra/Spectral_Sequences.pdf" style="text-decoration: none;">Notes</a></td>
+    </tr>
+  </tbody>
+
+  <thead>
+    <tr>
+      <th colspan="2" style="text-align: left; padding: 8px; background-color: #f2f2f2;">
+        <strong>Lie Theory</strong>
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="bullet-item" style="padding: 1px;">Lie Groups</td>
+      <td style="padding: 1px;"><a href="/assets/pdf/Notes/Lie-Theory/Lie-Groups.pdf" style="text-decoration: none;">Notes</a></td>
+    </tr>
+  </tbody>
+
+  <thead>
+    <tr>
+      <th colspan="2" style="text-align: left; padding: 8px; background-color: #f2f2f2;">
+        <strong>Operator Algebras</strong>
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="bullet-item" style="padding: 1px;">C*-Algebras</td>
+      <td style="padding: 1px;"><a href="/assets/pdf/Notes/C-Star/C_Star.pdf" style="text-decoration: none;">Notes</a></td>
+    </tr>
+  </tbody>
+</table>

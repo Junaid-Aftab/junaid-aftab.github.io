@@ -32,34 +32,22 @@ These notes were written for personal reference, so they may not be properly ref
   </thead>
   <tbody>
     <tr>
-      <td class="bullet-item" style="padding: 1px;">Singular Homology &amp; Cohomology</td>
-      <td style="padding: 1px;"><a href="/assets/pdf/Notes/Algebraic-Topology/Hom-Cohom.pdf" style="text-decoration: none;">Notes</a></td>
-    </tr>
-    <tr>
-      <td class="bullet-item" style="padding: 1px;">Classical Homotopy Theory</td>
-      <td style="padding: 1px;"><a href="/assets/pdf/Notes/Algebraic-Topology/Homotopy.pdf" style="text-decoration: none;">Notes</a></td>
-    </tr>
-    <tr>
-      <td class="bullet-item" style="padding: 1px;">Homology, Cohomology &amp; Homotopy (book)</td>
-      <td style="padding: 1px;"><a href="/assets/pdf/Notes/Algebraic-Topology/Book.pdf" style="text-decoration: none;">Book</a></td>
+      <td class="bullet-item" style="padding: 1px;">Homology, Cohomology &amp; Homotopy </td>
+      <td style="padding: 1px;"><a href="/assets/pdf/Notes/Algebraic-Topology/Algebraic_Topology.pdf" style="text-decoration: none;">Notes</a></td>
     </tr>
   </tbody>
 
   <thead>
     <tr>
       <th colspan="2" style="text-align: left; padding: 8px; background-color: #f2f2f2;">
-        <strong>Homological Algebra</strong>
+        <strong>Category Theory</strong>
       </th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td class="bullet-item" style="padding: 1px;">Derived Functors</td>
-      <td style="padding: 1px;"><a href="/assets/pdf/Notes/Homological-Algebra/Derived_Functors.pdf" style="text-decoration: none;">Notes</a></td>
-    </tr>
-    <tr>
-      <td class="bullet-item" style="padding: 1px;">Spectral Sequences</td>
-      <td style="padding: 1px;"><a href="/assets/pdf/Notes/Homological-Algebra/Spectral_Sequences.pdf" style="text-decoration: none;">Notes</a></td>
+      <td class="bullet-item" style="padding: 1px;">Basic Category Theory</td>
+      <td style="padding: 1px;"><a href="/assets/pdf/Notes/Category-Theory/Category_Theory.pdf" style="text-decoration: none;">Notes</a></td>
     </tr>
   </tbody>
 

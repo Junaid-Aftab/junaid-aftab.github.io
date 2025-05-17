@@ -35,6 +35,10 @@ These notes were written for personal reference, so they may not be properly ref
       <td class="bullet-item" style="padding: 1px;">Homology, Cohomology &amp; Homotopy </td>
       <td style="padding: 1px;"><a href="/assets/pdf/Notes/Algebraic-Topology/Algebraic_Topology.pdf" style="text-decoration: none;">Notes</a></td>
     </tr>
+    <tr>
+      <td class="bullet-item" style="padding: 1px;">Topological K-Theory </td>
+      <td style="padding: 1px;"><a href="/assets/pdf/Notes/Algebraic-Topology/K_Theory.pdf" style="text-decoration: none;">Notes</a></td>
+    </tr>
   </tbody>
 
   <thead>

@@ -25,8 +25,8 @@ These notes were written for personal reference, so they may not be properly ref
 <table style="width: 100%; border-collapse: collapse; table-layout: fixed;">
   <colgroup>
     <col style="width: 25%;"> <!-- Slightly narrower Topic -->
-    <col style="width: 67.5%;"> <!-- Wider Description -->
-    <col style="width: 7.5%;"> <!-- Link Column -->
+    <col style="width: 68.5%;"> <!-- Wider Description -->
+    <col style="width: 6.5%;"> <!-- Link Column -->
   </colgroup>
 
   <!-- Global Column Headers -->
@@ -64,18 +64,8 @@ These notes were written for personal reference, so they may not be properly ref
       <td style="padding: 1px;">Language of modern mathematics.</td>
       <td style="padding: 1px;"><a href="/assets/pdf/Notes/Category-Theory/Category_Theory.pdf" style="text-decoration: none;">Notes</a></td>
     </tr>
-
-    <!-- Lie Theory -->
-    <tr>
-      <td colspan="3" style="padding: 8px; background-color: #f2f2f2;"><strong>Lie Theory</strong></td>
-    </tr>
-    <tr>
-      <td class="bullet-item" style="padding: 1px;">Lie Groups</td>
-      <td style="padding: 1px;">Smooth manifolds with group structure. Essential in geometry and physics.</td>
-      <td style="padding: 1px;"><a href="/assets/pdf/Notes/Lie-Theory/Lie_Groups.pdf" style="text-decoration: none;">Notes</a></td>
-    </tr>
-
-    <!-- Operator Algebras -->
+    
+        <!-- Operator Algebras -->
     <tr>
       <td colspan="3" style="padding: 8px; background-color: #f2f2f2;"><strong>Functional Analysis & Operator Algebras</strong></td>
     </tr>
@@ -85,9 +75,29 @@ These notes were written for personal reference, so they may not be properly ref
       <td style="padding: 1px;"><a href="/assets/pdf/Notes/NCG/C_Star.pdf" style="text-decoration: none;">Notes</a></td>
     </tr>
     <tr>
-      <td class="bullet-item" style="padding: 1px;">Functional Analysis</td>
+      <td class="bullet-item" style="padding: 1px;">Linear Analysis</td>
       <td style="padding: 1px;">Infinite-dimensional linear spaces and linear operators between such spaces.</td>
       <td style="padding: 1px;"><a href="/assets/pdf/Notes/NCG/Functional_Analysis.pdf" style="text-decoration: none;">Notes</a></td>
+    </tr>
+    
+    <!-- Geometry -->
+    <tr>
+      <td colspan="3" style="padding: 8px; background-color: #f2f2f2;"><strong>Geometry</strong></td>
+    </tr>
+    <tr>
+      <td class="bullet-item" style="padding: 1px;">Complex Manifolds</td>
+      <td style="padding: 1px;">Smooth manifolds with a complex structure. Fundamental in geometry and physics.</td>
+      <td style="padding: 1px;"><a href="/assets/pdf/Notes/Geometry/Complex_Geometry.pdf" style="text-decoration: none;">Notes</a></td>
+    </tr>
+
+    <!-- Lie Theory -->
+    <tr>
+      <td colspan="3" style="padding: 8px; background-color: #f2f2f2;"><strong>Lie Theory</strong></td>
+    </tr>
+    <tr>
+      <td class="bullet-item" style="padding: 1px;">Lie Groups</td>
+      <td style="padding: 1px;">Smooth manifolds with group structure. Essential in geometry and physics.</td>
+      <td style="padding: 1px;"><a href="/assets/pdf/Notes/Lie-Theory/Lie_Groups.pdf" style="text-decoration: none;">Notes</a></td>
     </tr>
 
   </tbody>

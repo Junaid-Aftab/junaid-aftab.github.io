@@ -71,8 +71,8 @@ These notes were written for personal reference, so they may not be properly ref
     </tr>
     <tr>
       <td class="bullet-item" style="padding: 1px;">Lie Groups</td>
-      <td style="padding: 1px;">Smooth manifolds with group structure; essential in geometry and physics.</td>
-      <td style="padding: 1px;"><a href="/assets/pdf/Notes/Lie-Theory/Lie-Groups.pdf" style="text-decoration: none;">Notes</a></td>
+      <td style="padding: 1px;">Smooth manifolds with group structure. Essential in geometry and physics.</td>
+      <td style="padding: 1px;"><a href="/assets/pdf/Notes/Lie-Theory/Lie_Groups.pdf" style="text-decoration: none;">Notes</a></td>
     </tr>
 
     <!-- Operator Algebras -->

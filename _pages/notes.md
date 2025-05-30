@@ -46,12 +46,12 @@ These notes were written for personal reference, so they may not be properly ref
     </tr>
     <tr>
       <td class="bullet-item" style="padding: 1px;">(Co)homology &amp; Homotopy</td>
-      <td style="padding: 1px;">Foundational tools for classifying and analyzing topological spaces.</td>
+      <td style="padding: 1px;">Topological invariants for classifying topological spaces.</td>
       <td style="padding: 1px;"><a href="/assets/pdf/Notes/Algebraic-Topology/Algebraic_Topology.pdf" style="text-decoration: none;">Notes</a></td>
     </tr>
     <tr>
       <td class="bullet-item" style="padding: 1px;">Topological K-Theory</td>
-      <td style="padding: 1px;">A cohomology theory for vector bundles with applications in geometry and physics.</td>
+      <td style="padding: 1px;">A cohomology theory for vector bundles. Essential in topology and physics.</td>
       <td style="padding: 1px;"><a href="/assets/pdf/Notes/Algebraic-Topology/K_Theory.pdf" style="text-decoration: none;">Notes</a></td>
     </tr>
 
@@ -61,7 +61,7 @@ These notes were written for personal reference, so they may not be properly ref
     </tr>
     <tr>
       <td class="bullet-item" style="padding: 1px;">Foundations</td>
-      <td style="padding: 1px;">Objects, morphisms, functors, universal properties. Key to modern mathematics.</td>
+      <td style="padding: 1px;">Language of modern mathematics.</td>
       <td style="padding: 1px;"><a href="/assets/pdf/Notes/Category-Theory/Category_Theory.pdf" style="text-decoration: none;">Notes</a></td>
     </tr>
 
@@ -77,12 +77,17 @@ These notes were written for personal reference, so they may not be properly ref
 
     <!-- Operator Algebras -->
     <tr>
-      <td colspan="3" style="padding: 8px; background-color: #f2f2f2;"><strong>Operator Algebras</strong></td>
+      <td colspan="3" style="padding: 8px; background-color: #f2f2f2;"><strong>Functional Analysis & Operator Algebras</strong></td>
     </tr>
     <tr>
       <td class="bullet-item" style="padding: 1px;">C*-Algebras</td>
       <td style="padding: 1px;">Algebras of bounded operators. Fundamental in analysis and quantum physics.</td>
-      <td style="padding: 1px;"><a href="/assets/pdf/Notes/C-Star/C_Star.pdf" style="text-decoration: none;">Notes</a></td>
+      <td style="padding: 1px;"><a href="/assets/pdf/Notes/NCG/C_Star.pdf" style="text-decoration: none;">Notes</a></td>
+    </tr>
+    <tr>
+      <td class="bullet-item" style="padding: 1px;">Functional Analysis</td>
+      <td style="padding: 1px;">Infinite-dimensional linear spaces and linear operators between such spaces.</td>
+      <td style="padding: 1px;"><a href="/assets/pdf/Notes/NCG/Functional_Analysis.pdf" style="text-decoration: none;">Notes</a></td>
     </tr>
 
   </tbody>

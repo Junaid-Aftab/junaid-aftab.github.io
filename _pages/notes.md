@@ -17,69 +17,73 @@ These notes were written for personal reference, so they may not be properly ref
     display: inline-block;
     color: black;
     margin-right: 6px;
-    transform: scale(1.5); /* Increase bullet size only */
-    line-height: 0; /* helps with vertical alignment */
+    transform: scale(1.5);
+    line-height: 0;
   }
 </style>
 
-<table style="width: 100%; border-collapse: collapse;">
+<table style="width: 100%; border-collapse: collapse; table-layout: fixed;">
+  <colgroup>
+    <col style="width: 25%;"> <!-- Slightly narrower Topic -->
+    <col style="width: 67.5%;"> <!-- Wider Description -->
+    <col style="width: 7.5%;"> <!-- Link Column -->
+  </colgroup>
+
+  <!-- Global Column Headers -->
   <thead>
     <tr>
-      <th colspan="2" style="text-align: left; padding: 8px; background-color: #f2f2f2;">
-        <strong>Algebraic Topology</strong>
-      </th>
+      <th style="text-align: left; padding: 8px; background-color: #ddd;">Topic</th>
+      <th style="text-align: left; padding: 8px; background-color: #ddd;">Description</th>
+      <th style="text-align: left; padding: 8px; background-color: #ddd;">Link</th>
     </tr>
   </thead>
+
   <tbody>
+
+    <!-- Algebraic Topology -->
     <tr>
-      <td class="bullet-item" style="padding: 1px;">Homology, Cohomology &amp; Homotopy </td>
+      <td colspan="3" style="padding: 8px; background-color: #f2f2f2;"><strong>Algebraic Topology</strong></td>
+    </tr>
+    <tr>
+      <td class="bullet-item" style="padding: 1px;">(Co)homology &amp; Homotopy</td>
+      <td style="padding: 1px;">Foundational tools for classifying and analyzing topological spaces.</td>
       <td style="padding: 1px;"><a href="/assets/pdf/Notes/Algebraic-Topology/Algebraic_Topology.pdf" style="text-decoration: none;">Notes</a></td>
     </tr>
     <tr>
-      <td class="bullet-item" style="padding: 1px;">Topological K-Theory </td>
+      <td class="bullet-item" style="padding: 1px;">Topological K-Theory</td>
+      <td style="padding: 1px;">A cohomology theory for vector bundles with applications in geometry and physics.</td>
       <td style="padding: 1px;"><a href="/assets/pdf/Notes/Algebraic-Topology/K_Theory.pdf" style="text-decoration: none;">Notes</a></td>
     </tr>
-  </tbody>
 
-  <thead>
+    <!-- Category Theory -->
     <tr>
-      <th colspan="2" style="text-align: left; padding: 8px; background-color: #f2f2f2;">
-        <strong>Category Theory</strong>
-      </th>
+      <td colspan="3" style="padding: 8px; background-color: #f2f2f2;"><strong>Category Theory</strong></td>
     </tr>
-  </thead>
-  <tbody>
     <tr>
-      <td class="bullet-item" style="padding: 1px;">Basic Category Theory</td>
+      <td class="bullet-item" style="padding: 1px;">Foundations</td>
+      <td style="padding: 1px;">Objects, morphisms, functors, universal properties. Key to modern mathematics.</td>
       <td style="padding: 1px;"><a href="/assets/pdf/Notes/Category-Theory/Category_Theory.pdf" style="text-decoration: none;">Notes</a></td>
     </tr>
-  </tbody>
 
-  <thead>
+    <!-- Lie Theory -->
     <tr>
-      <th colspan="2" style="text-align: left; padding: 8px; background-color: #f2f2f2;">
-        <strong>Lie Theory</strong>
-      </th>
+      <td colspan="3" style="padding: 8px; background-color: #f2f2f2;"><strong>Lie Theory</strong></td>
     </tr>
-  </thead>
-  <tbody>
     <tr>
       <td class="bullet-item" style="padding: 1px;">Lie Groups</td>
+      <td style="padding: 1px;">Smooth manifolds with group structure; essential in geometry and physics.</td>
       <td style="padding: 1px;"><a href="/assets/pdf/Notes/Lie-Theory/Lie-Groups.pdf" style="text-decoration: none;">Notes</a></td>
     </tr>
-  </tbody>
 
-  <thead>
+    <!-- Operator Algebras -->
     <tr>
-      <th colspan="2" style="text-align: left; padding: 8px; background-color: #f2f2f2;">
-        <strong>Operator Algebras</strong>
-      </th>
+      <td colspan="3" style="padding: 8px; background-color: #f2f2f2;"><strong>Operator Algebras</strong></td>
     </tr>
-  </thead>
-  <tbody>
     <tr>
       <td class="bullet-item" style="padding: 1px;">C*-Algebras</td>
+      <td style="padding: 1px;">Algebras of bounded operators. Fundamental in analysis and quantum physics.</td>
       <td style="padding: 1px;"><a href="/assets/pdf/Notes/C-Star/C_Star.pdf" style="text-decoration: none;">Notes</a></td>
     </tr>
+
   </tbody>
 </table>

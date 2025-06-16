@@ -61,7 +61,7 @@ These notes were written for personal reference, so they may not be properly ref
     </tr>
     <tr>
       <td class="bullet-item" style="padding: 1px;">Foundations</td>
-      <td style="padding: 1px;">Categories, functors, natural transformations, and universal properties form the foundational language of modern mathematics.</td>
+      <td style="padding: 1px;">Categories, functors, natural transformations, and universal properties. </td>
       <td style="padding: 1px;"><a href="/assets/pdf/Notes/Category-Theory/Category_Theory.pdf" style="text-decoration: none;">Notes</a></td>
     </tr>
     
@@ -80,13 +80,13 @@ These notes were written for personal reference, so they may not be properly ref
       <td style="padding: 1px;"><a href="/assets/pdf/Notes/NCG/Functional_Analysis.pdf" style="text-decoration: none;">Notes</a></td>
     </tr>
     
-    <!-- Geometry -->
+    <!-- Differential Geometry -->
     <tr>
-      <td colspan="3" style="padding: 8px; background-color: #f2f2f2;"><strong>Geometry</strong></td>
+      <td colspan="3" style="padding: 8px; background-color: #f2f2f2;"><strong>Differential Geometry</strong></td>
     </tr>
     <tr>
       <td class="bullet-item" style="padding: 1px;">Complex Manifolds</td>
-      <td style="padding: 1px;">Smooth manifolds with complex structures, central to geometry and physics.</td>
+      <td style="padding: 1px;">Smooth manifolds with complex structure, central to geometry and physics.</td>
       <td style="padding: 1px;"><a href="/assets/pdf/Notes/Geometry/Complex_Geometry.pdf" style="text-decoration: none;">Notes</a></td>
     </tr>
 

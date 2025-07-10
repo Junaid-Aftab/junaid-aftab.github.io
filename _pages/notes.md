@@ -61,7 +61,7 @@ These notes were written for personal reference, so they may not be properly ref
     </tr>
     <tr>
       <td class="bullet-item" style="padding: 1px;">Scheme Theory</td>
-      <td style="padding: 1px;">An approach to algebraic geometry that broadens the idea of algebraic varieties.</td>
+      <td style="padding: 1px;">Schemes generalize of algebraic varieties in contemporary algebraic geometry.</td>
       <td style="padding: 1px;"><a href="/assets/pdf/Notes/Algebraic-Geometry/Schemes.pdf" style="text-decoration: none;">Notes</a></td>
     </tr>
 

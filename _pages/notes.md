@@ -54,16 +54,6 @@ These notes were written for personal reference, so they may not be properly ref
       <td style="padding: 1px;">A cohomology theory for vector bundles with applications in topology and physics.</td>
       <td style="padding: 1px;"><a href="/assets/pdf/Notes/Algebraic-Topology/K_Theory.pdf" style="text-decoration: none;">Notes</a></td>
     </tr>
-    
-        <!-- Algebraic Geometry -->
-    <tr>
-      <td colspan="3" style="padding: 8px; background-color: #f2f2f2;"><strong>Algebraic Geometry</strong></td>
-    </tr>
-    <tr>
-      <td class="bullet-item" style="padding: 1px;">Scheme Theory</td>
-      <td style="padding: 1px;">Schemes generalize of algebraic varieties in contemporary algebraic geometry.</td>
-      <td style="padding: 1px;"><a href="/assets/pdf/Notes/Algebraic-Geometry/Schemes.pdf" style="text-decoration: none;">Notes</a></td>
-    </tr>
 
 
     <!-- Category Theory -->
@@ -76,26 +66,26 @@ These notes were written for personal reference, so they may not be properly ref
       <td style="padding: 1px;"><a href="/assets/pdf/Notes/Category-Theory/Category_Theory.pdf" style="text-decoration: none;">Notes</a></td>
     </tr>
     
-        <!-- Differential Geometry -->
+        <!-- Geometry -->
     <tr>
-      <td colspan="3" style="padding: 8px; background-color: #f2f2f2;"><strong>Differential Geometry</strong></td>
+      <td colspan="3" style="padding: 8px; background-color: #f2f2f2;"><strong>Geometry</strong></td>
     </tr>
     <tr>
       <td class="bullet-item" style="padding: 1px;">Complex Manifolds</td>
       <td style="padding: 1px;">Manifolds with complex structure with applications in geometry and physics.</td>
       <td style="padding: 1px;"><a href="/assets/pdf/Notes/Geometry/Complex_Geometry.pdf" style="text-decoration: none;">Notes</a></td>
     </tr>
-
-    <!-- Lie Theory -->
-    <tr>
-      <td colspan="3" style="padding: 8px; background-color: #f2f2f2;"><strong>Lie Theory</strong></td>
-    </tr>
-    <tr>
+     <tr>
       <td class="bullet-item" style="padding: 1px;">Lie Groups</td>
       <td style="padding: 1px;">Manifolds with group structure with applications in geometry and physics.</td>
       <td style="padding: 1px;"><a href="/assets/pdf/Notes/Lie-Theory/Lie_Groups.pdf" style="text-decoration: none;">Notes</a></td>
     </tr>
-    
+    <tr>
+      <td class="bullet-item" style="padding: 1px;">Scheme Theory</td>
+      <td style="padding: 1px;">Schemes generalize of algebraic varieties in contemporary algebraic geometry.</td>
+      <td style="padding: 1px;"><a href="/assets/pdf/Notes/Algebraic-Geometry/Schemes.pdf" style="text-decoration: none;">Notes</a></td>
+    </tr>
+
         
         <!-- Operator Algebras -->
     <tr>

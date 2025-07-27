@@ -45,12 +45,12 @@ rss_icon: false
 
 navbar_fixed: true
 footer_fixed: true
-search_enabled: false
+search_enabled: false	
 socials_in_search: false
 bib_search: false
 
 # Dimensions
-max_width: 900px
+max_width: 1000px
 
 # TODO: add layout settings (single page vs. multi-page)
 

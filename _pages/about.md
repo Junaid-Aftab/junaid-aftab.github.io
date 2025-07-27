@@ -7,7 +7,7 @@ subtitle:
 profile:
   align: center
   image: profile_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>Department of Mathematics</p>
     <p>University of Maryland</p>
@@ -34,7 +34,7 @@ The slogan **Pure × Applied** reflects my philosophy in approaching mathematics
   * Algebraic Topology: Topological K-Theory; Bordism
   * Topological Quantum Fields Theories (TQFT)
   * Higher Categories
-  * Noncommutative Geometry: C*-Algebras, Operator K-Theory
+  * Noncommutative Geometry: C*-Algebras; Operator K-Theory
   
   *“There is no branch of mathematics, however abstract, which may not someday be applied to the real world.”* – Nikolai Lobachevsky
   

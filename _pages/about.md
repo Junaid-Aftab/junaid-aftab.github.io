@@ -33,7 +33,7 @@ The slogan **Pure × Applied** reflects my philosophy in approaching mathematics
   
   * Algebraic Topology: Topological K-Theory; Bordism
   * Topological Quantum Fields Theories (TQFT)
-  * Higher Categories
+  * Category Theory
   * Noncommutative Geometry: C*-Algebras; Operator K-Theory
   
   *“There is no branch of mathematics, however abstract, which may not someday be applied to the real world.”* – Nikolai Lobachevsky

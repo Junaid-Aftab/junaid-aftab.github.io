@@ -24,7 +24,7 @@ These notes were written for personal reference, so they may not be properly ref
 
 <table style="width: 100%; border-collapse: collapse; table-layout: fixed;">
   <colgroup>
-    <col style="width: 25%;"> <!-- Slightly narrower Topic -->
+    <col style="width: 27.5%;"> <!-- Slightly narrower Topic -->
     <col style="width: 68.5%;"> <!-- Wider Description -->
     <col style="width: 6.5%;"> <!-- Link Column -->
   </colgroup>
@@ -47,18 +47,13 @@ These notes were written for personal reference, so they may not be properly ref
 
     <tr>
       <td class="bullet-item" style="padding: 1px;">(Co)homology &amp; Homotopy</td>
-      <td style="padding: 1px;">Topological invariants for classifying and distinguishing topological spaces.</td>
+      <td style="padding: 1px;">Classical topological invariants for classifying and distinguishing topological spaces.</td>
       <td style="padding: 1px;"><a href="/assets/pdf/Notes/Algebraic-Topology/Algebraic_Topology.pdf" style="text-decoration: none;">Notes</a></td>
     </tr>
     <tr>
       <td class="bullet-item" style="padding: 1px;">Topological K-Theory</td>
       <td style="padding: 1px;">A cohomology theory for vector bundles with applications in topology and physics.</td>
       <td style="padding: 1px;"><a href="/assets/pdf/Notes/Algebraic-Topology/K_Theory.pdf" style="text-decoration: none;">Notes</a></td>
-    </tr>
-    <tr>
-      <td class="bullet-item" style="padding: 1px;">Characteristic Classes</td>
-      <td style="padding: 1px;">A cohomology theory for vector bundles with applications in topology and physics.</td>
-      <td style="padding: 1px;"><a href="/assets/pdf/Notes/Algebraic-Topology/Characteristic_Classes.pdf" style="text-decoration: none;">Notes</a></td>
     </tr>
 
 
@@ -68,7 +63,7 @@ These notes were written for personal reference, so they may not be properly ref
     </tr>
     <tr>
       <td class="bullet-item" style="padding: 1px;">Foundations</td>
-      <td style="padding: 1px;">Language of modern mathematics for describing structures and their relationships.</td>
+      <td style="padding: 1px;">Foundational language of modern mathematics.</td>
       <td style="padding: 1px;"><a href="/assets/pdf/Notes/Category-Theory/Category_Theory.pdf" style="text-decoration: none;">Notes</a></td>
     </tr>
     

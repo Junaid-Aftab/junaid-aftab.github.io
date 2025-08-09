@@ -55,6 +55,11 @@ These notes were written for personal reference, so they may not be properly ref
       <td style="padding: 1px;">A cohomology theory for vector bundles with applications in topology and physics.</td>
       <td style="padding: 1px;"><a href="/assets/pdf/Notes/Algebraic-Topology/K_Theory.pdf" style="text-decoration: none;">Notes</a></td>
     </tr>
+    <tr>
+      <td class="bullet-item" style="padding: 1px;">Characteristic Classes</td>
+      <td style="padding: 1px;">A cohomology theory for vector bundles with applications in topology and physics.</td>
+      <td style="padding: 1px;"><a href="/assets/pdf/Notes/Algebraic-Topology/Characteristic_Classes.pdf" style="text-decoration: none;">Notes</a></td>
+    </tr>
 
 
     <!-- Category Theory -->

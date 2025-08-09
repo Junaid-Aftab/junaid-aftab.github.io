@@ -41,9 +41,10 @@ These notes were written for personal reference, so they may not be properly ref
   <tbody>
 
     <!-- Algebraic Topology -->
-    <tr>
-      <td colspan="3" style="padding: 8px; background-color: #f2f2f2;"><strong>Algebraic Topology</strong></td>
-    </tr>
+<tr>
+  <td colspan="3" class="table-subheader"><strong>Algebraic Topology</strong></td>
+</tr>
+
     <tr>
       <td class="bullet-item" style="padding: 1px;">(Co)homology &amp; Homotopy</td>
       <td style="padding: 1px;">Topological invariants for classifying and distinguishing topological spaces.</td>

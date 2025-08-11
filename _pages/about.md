@@ -9,7 +9,6 @@ profile:
   image: profile_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Department of Mathematics</p>
     <p>University of Maryland</p>
     <p>College Park, MD 20740</p>
     <p>junaida at umd dot edu</p>

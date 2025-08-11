@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: PhD Student || Mathematician || 
+subtitle: PhD Student || Mathematician 
 
 profile:
   align: center
@@ -17,7 +17,7 @@ profile:
 
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 ---
 
 Hi! I am a graduate student at [University of Maryland, College Park](https://www-math.umd.edu). Previously, I completed my MS in Mathematics at [Kansas State University](https://www.math.ksu.edu) and my BS in Economics & Mathematics at [Lahore University of Management and Sciences](https://lums.edu.pk).

@@ -40,7 +40,10 @@ The slogan **Pure × Applied** reflects my philosophy in approaching mathematics
   
   *“There is no branch of mathematics, however abstract, which may not someday be applied to the real world.”* – Nikolai Lobachevsky
   
-  Links:  [CV]({% link /assets/pdf/CV/CV.pdf %}), <a href="https://arxiv.org/search/quant-ph?query=Aftab%2C+Junaid&searchtype=author&abstracts=show&order=-announced_date_first&size=50" target="_blank">arXiv</a>, <a href="https://junaid-aftab.github.io/notes/" target="_blank">Lecture Notes</a>
+  Links:  [CV]({% link /assets/pdf/CV/CV.pdf %})
+  ||  <a href="https://arxiv.org/search/quant-ph?query=Aftab%2C+Junaid&searchtype=author&abstracts=show&order=-announced_date_first&size=50" target="_blank">arXiv</a>
+  || <a href="https://junaid-aftab.github.io/notes/" target="_blank">Lecture Notes</a>
+  || <a href="https://junaid-aftab.github.io/repositories/" target="_blank">Code</a>
   
   
   

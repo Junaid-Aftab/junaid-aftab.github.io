@@ -294,10 +294,6 @@ enable_publication_badges:
   google_scholar: false # Google Scholar badge (https://scholar.google.com/intl/en/scholar/citations.html)
   inspirehep: false # Inspire HEP badge (https://help.inspirehep.net/knowledge-base/citation-metrics/)
 
-publications:
-  sort_by: year
-  order: descending
-
 # Filter out certain bibtex entry keywords used internally from the bib output
 filtered_bibtex_keywords:
   [

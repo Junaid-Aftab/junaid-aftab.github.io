@@ -79,11 +79,11 @@ nav_order: 3
         <h6 class="card-subtitle font-italic">Grader and Guest Lecturer, Spring '24</h6>
       </div>
       <div class="col-sm-2 text-sm-right">
-        <!--
-<span class="badge" style="background-color: #4682b4; color: white;">
-  MATH 740
-</span>
--->
+        
+        
+        <span class="badge">MATH 740</span>
+
+        
       </div>
     </div>
     <div class="row mt-2">
@@ -110,11 +110,11 @@ nav_order: 3
         <h6 class="card-subtitle font-italic">Instructor, Summer '22</h6>
       </div>
       <div class="col-sm-2 text-sm-right">
-        <!--
-<span class="badge" style="background-color: #4682b4; color: white;">
-  MATH 141
-</span>
--->
+      
+      
+      <span class="badge">MATH 141</span>
+
+      
       </div>
     </div>
     <div class="row mt-2">

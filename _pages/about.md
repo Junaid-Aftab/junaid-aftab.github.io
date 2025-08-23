@@ -17,6 +17,11 @@ profile:
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
+
+scholar:
+  sort_by: year
+  order: ascending  # can be either "ascending" or "descending"
+
 ---
 
 Hi! I am a graduate student at [University of Maryland, College Park](https://www-math.umd.edu). Previously, I completed my MS in Mathematics at [Kansas State University](https://www.math.ksu.edu) and my BS in Economics & Mathematics at [Lahore University of Management and Sciences](https://lums.edu.pk).

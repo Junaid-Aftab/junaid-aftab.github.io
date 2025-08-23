@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: This page provides a selected list of courses I have taught. For a comprehensive list, including courses for which I served as a graduate TA, please refer to my CV.
+description: This page provides a selected list of courses I have taught. Please refer to my CV for an exhaustive list of courses for which I have served as a TA.
 nav: true
 nav_order: 3
 ---
@@ -34,24 +34,23 @@ nav_order: 3
   }
 </style>
 
-<!-- University of Maryland with toggle icon on the left -->
-<h3 id="umd" onclick="toggleCourses()" style="cursor: pointer;">
-  <i id="toggle-icon" class="fas fa-chevron-down"></i> University of Maryland
+
+<h3 class="toggle-header" style="cursor: pointer;">
+  <i class="toggle-icon fas fa-chevron-right"></i> University of Maryland
 </h3>
 
-<div class="card mt-3">
+
+
+<!-- MATH 120 (Elementary Calculus) Summer 24 -->
+<div class="card mt-3 toggle-card">
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
-        <h5 id="Math120" class="card-title">Elementary Calculus</h5>
+        <h5 class="card-title toggle-header">Elementary Calculus</h5>
         <h6 class="card-subtitle font-italic">Instructor, Summer '24</h6>
       </div>
       <div class="col-sm-2 text-sm-right">
-      
-      <span class="badge">MATH 120</span>
-      
-      
-      
+        <span class="badge">MATH 120</span>
       </div>
     </div>
     <div class="row mt-2">
@@ -70,23 +69,20 @@ nav_order: 3
 </div>
 
 
+
 <!-- MATH 740 (Diff. Geo) Spring 24 -->
-<div class="card mt-3">
+<div class="card mt-3 toggle-card">
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
-        <h5 id="math740" class="card-title">Differential Geometry</h5>
+        <h5 class="card-title toggle-header">Differential Geometry</h5>
         <h6 class="card-subtitle font-italic">Grader and Guest Lecturer, Spring '24</h6>
       </div>
       <div class="col-sm-2 text-sm-right">
-        
-        
         <span class="badge">MATH 740</span>
-
-        
       </div>
     </div>
-    <div class="row mt-2">
+    <div class="row mt-2 toggle-content">
       <div class="col-sm-9">
         <p class="font-weight-light mb-0">
           MATH 740 is an introduction to differential geometry. I served as the grader for this class, led one problem session, and delivered a lecture on the Hopf-Rinow theorem.
@@ -102,11 +98,11 @@ nav_order: 3
 
 
 <!-- MATH 141 (Calc II) Summer 22 -->
-<div class="card mt-3">
+<div class="card mt-3 toggle-card">
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
-        <h5 id="math141" class="card-title">Calculus II</h5>
+        <h5 class="card-title toggle-header">Calculus II</h5>
         <h6 class="card-subtitle font-italic">Instructor, Summer '22</h6>
       </div>
       <div class="col-sm-2 text-sm-right">
@@ -117,7 +113,7 @@ nav_order: 3
       
       </div>
     </div>
-    <div class="row mt-2">
+     <div class="row mt-2 toggle-content">
       <div class="col-sm-9">
         <p class="font-weight-light mb-0">
           Math 141 is a continuation of MATH 140 (Calculus I) and covers topics such as integration, exponential and logarithmic functions, sequences, and series. I delivered lectures and created syllabus, quizzes, exams, and homework for the course.
@@ -133,21 +129,51 @@ nav_order: 3
 </div>
 
 
-<script>
-  // Function to toggle courses and change icon direction
-  function toggleCourses() {
-    var courses = document.getElementById("courses");
-    var icon = document.getElementById("toggle-icon");
 
-    if (courses.style.display === "none") {
-      courses.style.display = "block"; // Show courses
-      icon.classList.remove("fa-chevron-right");
-      icon.classList.add("fa-chevron-down"); // Change to downward arrow
-    } else {
-      courses.style.display = "none"; // Hide courses
-      icon.classList.remove("fa-chevron-down");
-      icon.classList.add("fa-chevron-right"); // Change to right arrow
-    }
+
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+
+  // Toggle a single card
+  function toggleCard(card, show) {
+    card.style.display = show ? "block" : "none";
   }
+
+  function isVisible(el) {
+    return window.getComputedStyle(el).display !== "none";
+  }
+
+  // Individual card toggle
+  document.querySelectorAll(".toggle-card .toggle-header").forEach(header => {
+    header.addEventListener("click", function() {
+      var card = header.closest(".toggle-card");
+      if (!card) return;
+      toggleCard(card, !isVisible(card));
+    });
+  });
+
+  // Top-level toggle all with chevron icon
+  var toggleAllHeader = document.querySelector(".toggle-header");
+  var toggleAllIcon = toggleAllHeader.querySelector(".toggle-icon");
+
+  toggleAllHeader.addEventListener("click", function(e) {
+    e.stopPropagation();
+
+    var allCards = document.querySelectorAll(".toggle-card");
+    // Check if any card is hidden
+    var anyHidden = Array.from(allCards).some(card => !isVisible(card));
+
+    // Toggle all cards
+    allCards.forEach(card => toggleCard(card, anyHidden));
+
+    // Toggle chevron
+    if (toggleAllIcon) {
+      toggleAllIcon.classList.toggle("fa-chevron-down", anyHidden);
+      toggleAllIcon.classList.toggle("fa-chevron-right", !anyHidden);
+    }
+  });
+
+});
 </script>
+
 

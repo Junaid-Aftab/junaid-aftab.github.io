@@ -30,7 +30,7 @@ My research interests fall under the umbrella of "Mathematics of Quantum Informa
 * Topological Quantum Computation (TQC)
 -->
 
-The slogan **Pure × Applied** reflects my philosophy in approaching mathematics. I strive to keep an open mind and I am eager to learn new mathematical techniques that can help solve problems I find compelling. In particular, I am interested in applying methods from algebraic topology (K-theory, bordism, TQFTs), category theory, noncommutative geometry (C*-algebras, operator K-theory), and statistical learning theory in my research. 
+The slogan **Pure × Applied** reflects my philosophy in approaching mathematics. I keep an open mind and I am eager to learn new mathematical techniques that can help solve problems I find compelling. In particular, I am interested in applying methods from algebraic topology (K-theory, bordism, TQFTs), category theory, non-commutative geometry (C*-algebras, operator K-theory), and statistical learning theory in my research. 
   
 <!-- 
 * Algebraic Topology: Topological K-Theory; Bordism; TQFTs  

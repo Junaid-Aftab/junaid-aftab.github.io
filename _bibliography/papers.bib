@@ -1,63 +1,56 @@
 @article{aftab2025gpc,
 	title={Quantum Circuit Encodings of Polynomial Chaos Expansions},
 	author={Junaid Aftab and Christoph Schwab and Haizhao Yang and Jakob Zech},
-	abstract={This work investigates the expressive power of quantum circuits in approximating high-dimensional, real-valued functions. We focus on countably-parametric holomorphic maps $u:U\to\mathbb{R}$, where the parameter domain is $U=[-1,1]^{\mathbb{N}}$. We establish dimension-independent quantum circuit approximation rates via the best $n$-term truncations of generalized polynomial chaos (gPC) expansions of these parametric maps, demonstrating that these rates depend solely on the summability exponent of the gPC expansion coefficients. The key to our findings is based on the fact that so-called ``$(b,\epsilon)$-holomorphic'' functions, where $b\in(0,1]^{\mathbb{N}}\cap\ell^{p}(\mathbb{N})$ for some $p\in(0,1)$, permit structured and sparse gPC expansions. Then, $n$-term truncated gPC expansions are known to admit approximation rates of order $n^{-1/p+1/2}$ in the $L^2$ norm and of order $n^{-1/p+1}$ in the $L^\infty$ norm. We show the existence of parameterized quantum circuit (PQC) encodings of these $n$-term truncated gPC expansions, and bound PQC depth and width via (i) tensorization of univariate PQCs that encode Chebyšev polynomials in $[-1,1]$ and (ii) linear combination of unitaries (LCU) to build PQC emulations of $n$-term truncated gPC expansions. The results provide a rigorous mathematical foundation for the use of quantum algorithms in high-dimensional function approximation. As countably-parametric holomorphic maps naturally arise in parametric PDE models and uncertainty quantification (UQ), our results have implications for quantum-enhanced algorithms for a wide range of maps in applications.
-	},
 	abbr={arXiv},
-	journal={Submitted to Quantum},
 	eprint={2506.01811},
-	year={2025},
 	archivePrefix={arXiv},
 	arxiv={arXiv:2506.01811},
-	%preview={MPF.png},
-	
+	year={2025},
+	journal={Submitted to Quantum},
+	abstract={This work investigates the expressive power of quantum circuits in approximating high-dimensional, real-valued functions. We focus on countably-parametric holomorphic maps $u:U\to\mathbb{R}$, where the parameter domain is $U=[-1,1]^{\mathbb{N}}$. We establish dimension-independent quantum circuit approximation rates via the best $n$-term truncations of generalized polynomial chaos (gPC) expansions of these parametric maps, demonstrating that these rates depend solely on the summability exponent of the gPC expansion coefficients. The key to our findings is based on the fact that so-called ``$(b,\epsilon)$-holomorphic'' functions, where $b\in(0,1]^{\mathbb{N}}\cap\ell^{p}(\mathbb{N})$ for some $p\in(0,1)$, permit structured and sparse gPC expansions. Then, $n$-term truncated gPC expansions are known to admit approximation rates of order $n^{-1/p+1/2}$ in the $L^2$ norm and of order $n^{-1/p+1}$ in the $L^\infty$ norm. We show the existence of parameterized quantum circuit (PQC) encodings of these $n$-term truncated gPC expansions, and bound PQC depth and width via (i) tensorization of univariate PQCs that encode Chebyšev polynomials in $[-1,1]$ and (ii) linear combination of unitaries (LCU) to build PQC emulations of $n$-term truncated gPC expansions. The results provide a rigorous mathematical foundation for the use of quantum algorithms in high-dimensional function approximation. As countably-parametric holomorphic maps naturally arise in parametric PDE models and uncertainty quantification (UQ), our results have implications for quantum-enhanced algorithms for a wide range of maps in applications.
+	},
 }
-
-
-@article{aftab2024multiproduct,
-  title={Multi-product Hamiltonian simulation with explicit commutator scaling},
-  author={Junaid Aftab and Dong An and Konstantina Trivisa},
-  abstract={The well-conditioned multi-product formula (MPF), proposed by [Low, Kliuchnikov, and Wiebe,
-2019], is a simple high-order time-independent Hamiltonian simulation algorithm that implements a linear
-combination of standard product formulas of low order. While the MPF aims to simultaneously exploit
-commutator scaling among Hamiltonians and achieve near-optimal time and precision dependence, its
-lack of a rigorous error bound on the nested commutators renders its practical advantage ambiguous.
-In this work, we conduct a rigorous complexity analysis of the well-conditioned MPF, demonstrating
-explicit commutator scaling and near-optimal time and precision dependence at the same time. Using
-our improved complexity analysis, we present several applications of practical interest where the MPF
-based on a second-order product formula can achieve a polynomial speedup in both system size and
-evolution time, as well as an exponential speedup in precision, compared to second-order and even higherorder product formulas. Compared to post-Trotter methods, the MPF based on a second-order product
-formula can achieve polynomially better scaling in system size, with only poly-logarithmic overhead in
-evolution time and precision.},
-  abbr={arXiv},
-   journal={Submitted to Communications in Mathematical Physics},
-  eprint={2403.08922},
-  year={2024},
-  archivePrefix={arXiv},
-  arxiv={arXiv:2403.08922},
-  code={https://github.com/Junaid-Aftab/MPF_Commutator_Scaling},
-  %preview={MPF.png},
-  
-  }
   
   @article{aftab2024approximating,
   title={Approximating Korobov Functions via Quantum Circuits},
   author={Junaid Aftab and Haizhao Yang},
-    abstract={Studying quantum circuits through the lens of approximation theory is crucial to upper bound the computational complexity of such circuits to approximate various mathematical functions. In this paper, we construct quantum circuits that can approximate
-$d$-dimensional functions in the Korobov function space using quantum signal processing and linear combinations of unitaries algorithms. We provide error bounds and complexity estimates for these circuits. Since the Korobov space is a subspace of Sobolev spaces, our work establishes a theoretical foundation for implementing a broad class of functions on quantum computers.},
   abbr={Comm. Math Sci.},
   eprint={2404.14570},
-  year={2024},
-  journal={To appear in Communications in Mathematical Sciences},
   archivePrefix={arXiv},
   arxiv={arXiv:2404.14570},
-  %preview={korobov4.png},
+  year={2025},
+  journal={To appear in Communications in Mathematical Sciences},
+  abstract={Studying quantum circuits through the lens of approximation theory is crucial to upper bound the computational complexity of such circuits to approximate various mathematical functions. In this paper, we construct quantum circuits that can approximate
+  $d$-dimensional functions in the Korobov function space using quantum signal processing and linear combinations of unitaries algorithms. We provide error bounds and complexity estimates for these circuits. Since the Korobov space is a subspace of Sobolev spaces, our work establishes a theoretical foundation for implementing a broad class of functions on quantum computers.},
+  }
+  
+  @article{aftab2024multiproduct,
+  	title={Multi-product Hamiltonian simulation with explicit commutator scaling},
+  	author={Junaid Aftab and Dong An and Konstantina Trivisa},
+  	abbr={arXiv},
+  	eprint={2403.08922},
+  	archivePrefix={arXiv},
+  	arxiv={arXiv:2403.08922},
+  	year={2024},
+  	journal={Submitted to Communications in Mathematical Physics},
+  	code={https://github.com/Junaid-Aftab/MPF_Commutator_Scaling},
+  	abstract={The well-conditioned multi-product formula (MPF), proposed by [Low, Kliuchnikov, and Wiebe,
+  	2019], is a simple high-order time-independent Hamiltonian simulation algorithm that implements a linear
+  	combination of standard product formulas of low order. While the MPF aims to simultaneously exploit
+  	commutator scaling among Hamiltonians and achieve near-optimal time and precision dependence, its
+  	lack of a rigorous error bound on the nested commutators renders its practical advantage ambiguous.
+  	In this work, we conduct a rigorous complexity analysis of the well-conditioned MPF, demonstrating
+  	explicit commutator scaling and near-optimal time and precision dependence at the same time. Using
+  	our improved complexity analysis, we present several applications of practical interest where the MPF
+  	based on a second-order product formula can achieve a polynomial speedup in both system size and
+  	evolution time, as well as an exponential speedup in precision, compared to second-order and even higherorder product formulas. Compared to post-Trotter methods, the MPF based on a second-order product
+  	formula can achieve polynomially better scaling in system size, with only poly-logarithmic overhead in
+  	evolution time and precision.},
   }
   
   @article{aftab2017analyzing,
   	title={Analyzing the quantum Zeno and anti-Zeno effects using optimal projective measurements},
   	author={Junaid Aftab and Adam Z. Chaudhry},
-  	abstract={Measurements in quantum mechanics can not only effectively freeze the quantum system (the quantum Zeno effect) but also accelerate the time evolution of the system (the quantum anti-Zeno effect). In studies of these effects, a quantum state is prepared repeatedly by projecting the quantum state onto the initial state. In this paper, we repeatedly prepare the initial quantum state in a different manner. Instead of only performing projective measurements, we allow unitary operations to be performed, on a very short time-scale, after each measurement. We can then repeatedly prepare the initial state by performing some projective measurement and then, after each measurement, we perform a suitable unitary operation to end up with the same initial state as before. Our objective is to find the projective measurements that minimize the effective decay rate of the quantum state. We find such optimal measurements and the corresponding decay rates for a variety of system-environment models such as the pure dephasing model and the spin-boson model. We find that there can be considerable differences between this optimized effective decay rate and the usual decay rate obtained by repeatedly projecting onto the initial state. In particular, the Zeno and anti-Zeno regimes can be considerably modified.},
   	abbr={Scientific Reports},
   	eprint={1702.01609},
   	archivePrefix={arXiv},
@@ -67,6 +60,6 @@ $d$-dimensional functions in the Korobov function space using quantum signal pro
   	volume={7},
   	pages={11766},
   	doi={10.1038/s41598-017-11787-9},
-  	%preview={zeno.png},
+  	abstract={Measurements in quantum mechanics can not only effectively freeze the quantum system (the quantum Zeno effect) but also accelerate the time evolution of the system (the quantum anti-Zeno effect). In studies of these effects, a quantum state is prepared repeatedly by projecting the quantum state onto the initial state. In this paper, we repeatedly prepare the initial quantum state in a different manner. Instead of only performing projective measurements, we allow unitary operations to be performed, on a very short time-scale, after each measurement. We can then repeatedly prepare the initial state by performing some projective measurement and then, after each measurement, we perform a suitable unitary operation to end up with the same initial state as before. Our objective is to find the projective measurements that minimize the effective decay rate of the quantum state. We find such optimal measurements and the corresponding decay rates for a variety of system-environment models such as the pure dephasing model and the spin-boson model. We find that there can be considerable differences between this optimized effective decay rate and the usual decay rate obtained by repeatedly projecting onto the initial state. In particular, the Zeno and anti-Zeno regimes can be considerably modified.},
   }
  

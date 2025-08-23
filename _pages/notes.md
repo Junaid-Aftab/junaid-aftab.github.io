@@ -12,15 +12,31 @@ nav_order: 2
 These notes were written for personal reference, so they may not be properly referenced/formatted, and some remain unfinished. Feel free to explore them. If you spot any typos, please let me know at <a href="mailto:junaid.aftab1994@gmail.com">junaid.aftab1994@gmail.com</a>.
 
 <style>
-  .bullet-item::before {
-    content: "•";
-    display: inline-block;
-    color: black;
-    margin-right: 6px;
-    transform: scale(1.5);
-    line-height: 0;
+  :root {
+    --table-header-bg: #ddd;
+    --table-header-text: #111827;
+    --section-row-bg: #f2f2f2; /* light gray for section rows */
+  }
+
+  [data-theme="dark"] {
+    --table-header-bg: #1f2937; /* dark gray */
+    --table-header-text: #ffffff;
+    --section-row-bg: #2c3849; /* slightly lighter than dark header */
+  }
+
+  thead th {
+    text-align: left;
+    padding: 8px;
+    background-color: var(--table-header-bg);
+    color: var(--table-header-text);
+  }
+
+  .section-row td {
+    padding: 8px; /* preserve original padding */
+    background-color: var(--section-row-bg);
   }
 </style>
+
 
 <table style="width: 100%; border-collapse: collapse; table-layout: fixed;">
   <colgroup>
@@ -32,17 +48,17 @@ These notes were written for personal reference, so they may not be properly ref
   <!-- Global Column Headers -->
   <thead>
     <tr>
-      <th style="text-align: left; padding: 8px; background-color: #ddd;">Topic</th>
-      <th style="text-align: left; padding: 8px; background-color: #ddd;">Description</th>
-      <th style="text-align: left; padding: 8px; background-color: #ddd;">Link</th>
+      <th>Topic</th>
+      <th>Description</th>
+      <th>Link</th>
     </tr>
   </thead>
 
   <tbody>
 
     <!-- Algebraic Topology -->
-<tr>
-      <td colspan="3" style="padding: 8px; background-color: #f2f2f2;"><strong>Algebraic Topology</strong></td>
+    <tr class="section-row">
+    	<td colspan="3"><strong>Algebraic Topology</strong></td>
     </tr>
 
     <tr>
@@ -58,9 +74,9 @@ These notes were written for personal reference, so they may not be properly ref
 
 
     <!-- Category Theory -->
-    <tr>
-      <td colspan="3" style="padding: 8px; background-color: #f2f2f2;"><strong>Category Theory</strong></td>
-    </tr>
+    <tr class="section-row">
+   	 <td colspan="3"><strong>Category Theory</strong></td>
+   </tr>
     <tr>
       <td class="bullet-item" style="padding: 1px;">Foundations</td>
       <td style="padding: 1px;">Foundational language of modern mathematics.</td>
@@ -68,8 +84,8 @@ These notes were written for personal reference, so they may not be properly ref
     </tr>
     
         <!-- Geometry -->
-    <tr>
-      <td colspan="3" style="padding: 8px; background-color: #f2f2f2;"><strong>Geometry</strong></td>
+    <tr class="section-row">
+  	<td colspan="3"><strong>Geometry</strong></td>
     </tr>
     <tr>
       <td class="bullet-item" style="padding: 1px;">Complex Manifolds</td>
@@ -89,8 +105,8 @@ These notes were written for personal reference, so they may not be properly ref
 
         
         <!-- Operator Algebras -->
-    <tr>
-      <td colspan="3" style="padding: 8px; background-color: #f2f2f2;"><strong>Operator Algebras</strong></td>
+    <tr class="section-row">
+    	<td colspan="3"><strong>Operator Algebras</strong></td>
     </tr>
     <tr>
       <td class="bullet-item" style="padding: 1px;">C*-Algebras</td>

@@ -19,6 +19,21 @@ nav_order: 3
   </style>
 </head>
 
+<style>
+  /* Use the global theme variables instead of new ones */
+  .badge {
+    display: inline-block;
+    padding: 0.25em 0.5em;
+    border-radius: 0.25rem;
+    font-size: 0.85em;
+    font-weight: 500;
+    background-color: var(--global-theme-color);   /* pick up your theme color */
+    color: var(--global-theme-text);               /* pick up your theme text color */
+    text-align: center;
+    line-height: 1.2;
+  }
+</style>
+
 <!-- University of Maryland with toggle icon on the left -->
 <h3 id="umd" onclick="toggleCourses()" style="cursor: pointer;">
   <i id="toggle-icon" class="fas fa-chevron-down"></i> University of Maryland
@@ -32,11 +47,11 @@ nav_order: 3
         <h6 class="card-subtitle font-italic">Instructor, Summer '24</h6>
       </div>
       <div class="col-sm-2 text-sm-right">
-       <!--
-<span class="badge" style="background-color: #4682b4; color: white;">
-  MATH 120
-</span>
--->
+      
+      <span class="badge">MATH 120</span>
+      
+      
+      
       </div>
     </div>
     <div class="row mt-2">

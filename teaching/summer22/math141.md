@@ -28,36 +28,95 @@ nav: false
 
 There will be attendance, group quizzes, two midterm exams, and a cumulative final exam. 
 
-<table style="border-collapse: collapse; width: 50%; margin: 0 auto; text-align: center;">
+<table class="grading-table">
   <thead>
     <tr>
-      <th style="border-bottom: 2px solid black; padding: 4px 8px;">Component</th>
-      <th style="border-bottom: 2px solid black; padding: 4px 8px;">Weight</th>
+      <th>Component</th>
+      <th>Weight</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="padding: 2px 8px;">Attendance</td>
-      <td style="padding: 2px 8px;">5%</td>
+      <td>Attendance</td>
+      <td>5%</td>
     </tr>
     <tr>
-      <td style="padding: 2px 8px;">Group Quizzes</td>
-      <td style="padding: 2px 8px;">15%</td>
+      <td>Group Quizzes</td>
+      <td>15%</td>
     </tr>
     <tr>
-      <td style="padding: 2px 8px;">Worksheets</td>
-      <td style="padding: 2px 8px;">10%</td>
+      <td>Worksheets</td>
+      <td>10%</td>
     </tr>
     <tr>
-      <td style="padding: 2px 8px;">Three Exams</td>
-      <td style="padding: 2px 8px;">45% (15% each)</td>
+      <td>Three Exams</td>
+      <td>45% (15% each)</td>
     </tr>
     <tr>
-      <td style="padding: 2px 8px;">Final Exam</td>
-      <td style="padding: 2px 8px;">25%</td>
+      <td>Final Exam</td>
+      <td>25%</td>
     </tr>
   </tbody>
 </table>
+
+<style>
+.grading-table {
+  width: 50%;
+  margin: 0 auto 1.5em;
+  border-collapse: collapse;
+  text-align: center;
+  font-size: 0.95em;
+  border: 1px solid var(--table-border);
+  border-radius: 6px;
+  overflow: hidden;
+}
+
+.grading-table th,
+.grading-table td {
+  padding: 10px;
+  border-bottom: 1px solid var(--table-border);
+}
+
+/* header row */
+.grading-table th {
+  background: color-mix(in srgb, currentColor 12%, transparent);
+  font-weight: 600;
+}
+
+/* alternating rows */
+.grading-table tr:nth-child(even) {
+  background: color-mix(in srgb, currentColor 3%, transparent);
+}
+
+/* hover effect */
+.grading-table tr:hover {
+  background: color-mix(in srgb, currentColor 7%, transparent);
+}
+
+/* links */
+.grading-table a {
+  color: var(--global-theme-color);
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.grading-table a:hover {
+  text-decoration: underline;
+}
+
+/* light mode defaults */
+:root {
+  --table-border: #d0d0d0;
+}
+
+/* dark mode overrides */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --table-border: #444;
+  }
+}
+</style>
+
 
 **Calculator Use:** No calculators will be allowed on quizzes or exams.
 
@@ -173,41 +232,57 @@ There will be attendance, group quizzes, two midterm exams, and a cumulative fin
   margin-bottom: 30px;
   text-align: center;
   font-size: 0.95em;
+  border: 1px solid var(--table-border);
+  border-radius: 6px;
+  overflow: hidden;
 }
 
-.schedule-table th {
-  background-color: #f4f4f4;
-  border-bottom: 2px solid #333;
-  padding: 8px;
-}
-
+.schedule-table th,
 .schedule-table td {
-  border: 1px solid #ddd;
-  padding: 6px;
+  padding: 10px;
+  border-bottom: 1px solid var(--table-border);
   vertical-align: top;
 }
 
+/* header row */
+.schedule-table th {
+  background: color-mix(in srgb, currentColor 12%, transparent);
+  font-weight: 600;
+}
+
+/* alternating rows */
 .schedule-table tr:nth-child(even) {
-  background-color: #fafafa;
+  background: color-mix(in srgb, currentColor 3%, transparent);
 }
 
+/* hover effect */
 .schedule-table tr:hover {
-  background-color: #f1f1f1;
+  background: color-mix(in srgb, currentColor 7%, transparent);
 }
 
+/* links */
 .schedule-table a {
   color: var(--global-theme-color);
-  text-decoration: none;
   font-weight: 600;
+  text-decoration: none;
 }
 
 .schedule-table a:hover {
   text-decoration: underline;
 }
+
+/* light mode defaults */
+:root {
+  --table-border: #d0d0d0;
+}
+
+/* dark mode overrides */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --table-border: #444;
+  }
+}
 </style>
-
-
-
 
 
 ### Honor Code:

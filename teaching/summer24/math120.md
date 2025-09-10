@@ -169,13 +169,13 @@ There will be attendance, group quizzes, two midterm exams, and a cumulative fin
       <td>Chapter 1: Lines</td>
       <td>Chapter 2: Derivatives</td>
       <td>Chapter 2: Derivatives</td>
-      <td><strong><a href="/assets/teaching/summer24/Quiz1.pdf">Quiz 1</a></strong><br>Chapter 2: Derivatives</td>
+      <td>Chapter 2: Derivatives<br><strong><a href="/assets/teaching/summer24/Quiz1.pdf">Quiz 1</a></strong></td>
     </tr>
     <tr>
       <td>2</td>
       <td>Chapter 3: More Derivatives</td>
       <td>Chapter 3: More Derivatives</td>
-      <td><strong><a href="/assets/teaching/summer24/Quiz2.pdf">Quiz 2</a></strong><br>Chapter 4: Some Applications</td>
+      <td>Chapter 4: Some Applications<br><strong><a href="/assets/teaching/summer24/Quiz2.pdf">Quiz 2</a></strong></td>
       <td>Exam 1 Review</td>
       <td><strong><a href="/assets/teaching/summer24/Exam1.pdf">Exam 1</a></strong><br>Covers Chapters 1-4</td>
     </tr>
@@ -185,7 +185,7 @@ There will be attendance, group quizzes, two midterm exams, and a cumulative fin
       <td>Chapter 6: Exponentials</td>
       <td>Chapter 7: Logarithms</td>
       <td>Chapter 8: Exponential Models</td>
-      <td><strong><a href="/assets/teaching/summer24/Quiz3.pdf">Quiz 3</a></strong><br>Chapter 8: Exponential Models</td>
+      <td>Chapter 8: Exponential Models<br><strong><a href="/assets/teaching/summer24/Quiz3.pdf">Quiz 3</a></strong></td>
     </tr>
     <tr>
       <td>4</td>

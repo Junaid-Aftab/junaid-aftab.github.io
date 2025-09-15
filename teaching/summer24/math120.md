@@ -13,18 +13,16 @@ nav: false
 **Meeting Times:** MTuWThF: 9:30 AM – 10:50 AM   
 **ELMS:** Click [here](https://umd.instructure.com/courses/1373442) to access course page on ELMS  	   
 **Location:** Online via Zoom (link posted on ELMS)  
+**Office Hours:** Fridays, 11:00 A.M – 12:00 P.M. Online via Zoom (link posted on ELMS)  
 
 
-**Course Description:**  MATH 120 introduces the basic ideas of differential and integral calculus, with emphasis on elementary techniques of differentiation and applications.
+**Description:**  MATH 120 introduces the basic ideas of differential and integral calculus, with emphasis on elementary techniques of differentiation and applications.
 
 **Prerequisites:** The student must have taken one course with a minimum grade of C- from MATH 113 (College Algebra and Trigonometry) and MATH 115 (Precalculus). Or the student must be eligible to register for MATH 120 (or higher) based on the Math Placement Test.
 
 **Restrictions:**  The course is **NOT** open to students majoring in mathematics, engineering, the biological sciences, biochemistry, chemistry, or the physical science. Students registered for this class must not have completed MATH 130, MATH 136 or MATH 140 with a grade of C- or higher
 
 **Textbook:**  *Elementary Calculus* by Lawrence C. Washington. The textbook is free, and it will be uploaded in the in the Files section of ELMS.
-
-**Office Hours:** Fridays, 11:00 A.M – 12:00 P.M (on Zoom). Check ELMS for the Zoom link.
-
 
 ### Grading Policy:
 
@@ -125,9 +123,7 @@ There will be attendance, group quizzes, two midterm exams, and a cumulative fin
 **Accommodations:** Students requiring special exam accommodations should register with the University’s Accessibility and Disability Service (ADS) to make appropriate testing arrangements with them. Please see the link below.
 
 
-
-<h3>Grading Policy Breakdown:</h3>
-<ol>
+<ul>
   <li>
     Everyone is encouraged to both attend and participate in class. 
     Hence, 5% of your grade will be determined by your attendance in class.
@@ -146,7 +142,7 @@ There will be attendance, group quizzes, two midterm exams, and a cumulative fin
     You should follow the instructions there. It will cost you approximately $30.  
     <strong>You should use your UMD email account when registering.</strong>
   </li>
-</ol>
+</ul>
 
 
 ### Course Schedule:

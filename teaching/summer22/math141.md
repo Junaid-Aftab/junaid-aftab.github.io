@@ -13,16 +13,14 @@ nav: false
 **Meeting Times:** MTuWThF: 9:30 AM – 10:50 AM   
 **ELMS:** Click [here](https://umd.instructure.com/courses/1333003) to access course page on ELMS  	   
 **Location:** Online via Zoom (link posted on ELMS)  
+**Office Hours:** Fridays, 11:00 A.M – 12:00 P.M. Online via Zoom (link posted on ELMS)  
 
 
-**Course Description:**  Math 141 (Calculus II) is a continuation of MATH 140 (Calculus I). The course covers topics such as techniques of integration, improper integrals, applications of integration (such as volumes, work, arc length, moments), inverse functions, exponential and logarithmic functions, sequences and series.
+**Description:**  Math 141 (Calculus II) is a continuation of MATH 140 (Calculus I). The course covers topics such as techniques of integration, improper integrals, applications of integration (such as volumes, work, arc length, moments), inverse functions, exponential and logarithmic functions, sequences and series.
 
 **Prerequisites:** The student must have taken MATH 140 with a C- or better, or Math130 with a B- or better.
 
 **Textbook:**  We will be using  *Calculus w/ Concepts in Calculus* by Ellis and Gulick as our main reference. The course covers essentially all of Chapters 6, 7, 8, and 9, part of 10, and complex numbers
-
-**Office Hours:** Fridays, 11:00 A.M – 12:00 P.M (on Zoom). Check ELMS for the Zoom link.
-
 
 ### Grading Policy:
 
@@ -125,8 +123,7 @@ There will be attendance, group quizzes, two midterm exams, and a cumulative fin
 **Accommodations:** Students requiring special exam accommodations should register with the University’s Accessibility and Disability Service (ADS) to make appropriate testing arrangements with them. Please see the link below.
 
 
-<h3>Grading Policy Breakdown:</h3>
-<ol>
+<ul>
   <li>
     Everyone is encouraged to both attend and participate in class. 
     Hence, 5% of your grade will be determined by your attendance in class.
@@ -141,7 +138,8 @@ There will be attendance, group quizzes, two midterm exams, and a cumulative fin
     Worksheets, which will play the role of practice homework problems, will be uploaded online every week.
     <strong>The worksheet problems will be graded only for completion. Students are expected to upload their work on GradeScope.</strong> 
   </li>
-</ol>
+</ul>
+
 
 
 ### Course Schedule:

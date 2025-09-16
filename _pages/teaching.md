@@ -68,6 +68,9 @@ nav_order: 3
 The [Directed Reading Program (DRP)](http://drp.math.umd.edu) pairs undergraduate students with graduate student mentors for semester-long independent study projects. I have mentored the following students:
 
 <ul>
+  <li><strong>Kelin Zhu</strong> (Fall '25) – Project: 
+  <a href="/teaching/fall25/drp/">Course Page</a>
+  </li>
   <li><strong>Aiden Higgs</strong> (Fall '24) – Project: Categories in Quantum Theory</li>
   <li><strong>Nashita Bhuiyan</strong> (Spring '24) – Project: Learning Theory: PAC-Learning & VC dimension</li>
   <li><strong>Koran Bailey</strong> (Spring '23) – Project: Grover's Search Algorithm & Random Walks</li>

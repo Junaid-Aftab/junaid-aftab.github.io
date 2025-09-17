@@ -13,9 +13,9 @@ nav: false
 **Mentee:** Kelin Zhu  
 **Meeting Times:** Weekly
 
-### Topic: Topological K-Theory  
+<!-- ### Topic: Topological K-Theory -->
 
-Topological K-theory is a generalized cohomology theory built from vector bundles over topological spaces.   It encodes stable isomorphism classes of vector bundles and has deep connections to algebraic topology and geometry. Central results include Bott periodicity and computations of K-groups for familiar spaces such as spheres and projective spaces.   It also serves as a bridge to algebraic K-theory, index theory, and has applications in mathematical physics.  
+**Description:** Topological K-theory is a generalized cohomology theory built from vector bundles over topological spaces.   It encodes stable isomorphism classes of vector bundles and has deep connections to algebraic topology and geometry. Central results include Bott periodicity and computations of K-groups for familiar spaces such as spheres and projective spaces.   It also serves as a bridge to algebraic K-theory, index theory, and has applications in mathematical physics.  
 
 **Deadlines:** The following are the key deadlines for the semester:
 <ul>
@@ -26,7 +26,27 @@ Topological K-theory is a generalized cohomology theory built from vector bundle
     <li><strong>December 9 &amp; 10</strong> – Student talks scheduled.</li>
 </ul>
 
-### Tentative Schedule
+
+**Suggested References:**
+<ul>
+    <li>
+      <cite>Hatcher [Hat], Allen.</cite>
+      <span>"Vector Bundles and K-Theory."</span>
+      <span> (2003). </span>
+      <a href="https://pi.math.cornell.edu/~hatcher/VBKT/VB.pdf" target="_blank" rel="noopener">PDF (Hatcher)</a>.
+    </li>
+    <li>
+      <cite>Karoubi [Kar], Max.</cite>
+      <span><em>K-Theory: An Introduction</em>.</span>
+      <span> Springer-Verlag, 1978. </span>
+      <a href="https://web.ma.utexas.edu/users/abhishek/files/k-theory/karoubi.pdf" target="_blank" rel="noopener">PDF (Karoubi)</a>.
+    </li>
+  </ul>
+
+
+<!-- ### Tentative Schedule -->
+
+**Tentative Schedule:**
 
 <table class="schedule-table">
   <thead>

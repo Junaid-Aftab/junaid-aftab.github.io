@@ -13,13 +13,20 @@ nav: false
 **Mentee:** Kelin Zhu  
 **Meeting Times:** Weekly
 
-**Description:**  The [Directed Reading Program](http://drp.math.umd.edu/}{Directed Reading Program) (DRP) pairs undergraduate students with graduate student mentors for semester-long independent study projects. 
+### Topic: Topological K-Theory  
 
-**Requirements:** The student is expected to meet with his or her mentor weekly for about an hour, during which time they talk about the previous week's work. About four hours of independent reading is expected from the student between each meeting. At the end of the semester, the student gives a brief talk on an aspect of his or her work.
+Topological K-theory is a generalized cohomology theory built from vector bundles over topological spaces.   It encodes stable isomorphism classes of vector bundles and has deep connections to algebraic topology and geometry. Central results include Bott periodicity and computations of K-groups for familiar spaces such as spheres and projective spaces.   It also serves as a bridge to algebraic K-theory, index theory, and has applications in mathematical physics.  
 
+**Deadlines:** The following are the key deadlines for the semester:
+<ul>
+    <li><strong>September 26</strong> – Submit project prospectus.</li>
+    <li><strong>October 17</strong> – Submit a brief project update (4–5 lines).</li>
+    <li><strong>December 1</strong> – Submit tentative talk title.</li>
+    <li><strong>December 5</strong> – Submit the final presentation to <a href="mailto:drpumd@gmail.com">drpumd@gmail.com</a>.</li>
+    <li><strong>December 9 &amp; 10</strong> – Student talks scheduled.</li>
+</ul>
 
-### Topic:
-
+### Tentative Schedule
 
 <table class="schedule-table">
   <thead>
@@ -32,11 +39,67 @@ nav: false
   <tbody>
     <tr>
       <td>1</td>
-      <td>Hi Hi.</td>
-      <td>Hi.</td>
+      <td>Vector Bundles: Definitions and Examples</td>
+      <td>Hat 1.1, Kar 1.1–1.2 & 1.4–1.5</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Classifying Vector Bundles: Clutching Functions, Classifying Spaces</td>
+      <td>Hat 1.2, Kar 1.3 & 1.7–1.8</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Grothendieck Completion & \(K^0\)</td>
+      <td>Hat 2.1, Kar 2.2</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Generalized Cohomology Theories</td>
+      <td>TBD</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Bott Periodicity & \(K\)-Theory as a Generalized Cohomology Theory</td>
+      <td>Hat 2.2, Kar 2.3–2.5 & 3.1</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>Computations & Applications: Spheres, Projective Spaces, Division Algebras</td>
+      <td>Hat 2.3, Kar 3.2</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>Fredholm Operators & Clifford Algebras</td>
+      <td>Kar 3.3–3.5</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>TBD</td>
+      <td>TBD</td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>TBD</td>
+      <td>TBD</td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>TBD</td>
+      <td>TBD</td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>TBD</td>
+      <td>TBD</td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>Presentation</td>
+      <td>N/A</td>
     </tr>
   </tbody>
 </table>
+
 
 
 <style>
@@ -53,7 +116,7 @@ nav: false
 
 .schedule-table th,
 .schedule-table td {
-  padding: 10px;
+  padding: 6px;
   border-bottom: 1px solid var(--table-border);
 }
 
@@ -96,13 +159,3 @@ nav: false
   }
 }
 </style>
-
-
-**Deadlines:** The following are the key deadlines for the semester:
-<ul>
-    <li><strong>September 26</strong> – Submit project prospectus, which defines goals, identifies resources, and provides a framework for progress.</li>
-    <li><strong>October 17</strong> – Submit a brief project update (4–5 lines).</li>
-    <li><strong>December 1</strong> – Submit tentative talk title.</li>
-    <li><strong>December 5</strong> – Submit the final presentation to <a href="mailto:drpumd@gmail.com">drpumd@gmail.com</a>.</li>
-    <li><strong>December 9 &amp; 10</strong> – Student talks scheduled.</li>
-</ul>

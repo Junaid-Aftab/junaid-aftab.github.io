@@ -71,7 +71,7 @@ There will be attendance, group quizzes, two midterm exams, and a cumulative fin
 
 .grading-table th,
 .grading-table td {
-  padding: 10px;
+  padding: 6px;
   border-bottom: 1px solid var(--table-border);
 }
 
@@ -237,7 +237,7 @@ There will be attendance, group quizzes, two midterm exams, and a cumulative fin
 
 .schedule-table th,
 .schedule-table td {
-  padding: 10px;
+  padding: 6px;
   border-bottom: 1px solid var(--table-border);
   vertical-align: top;
 }

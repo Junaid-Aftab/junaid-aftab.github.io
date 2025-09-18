@@ -29,19 +29,20 @@ nav: false
 
 **Suggested References:**
 <ul>
-    <li>
-      <cite>Hatcher [Hat], Allen.</cite>
-      <span>"Vector Bundles and K-Theory."</span>
-      <span> (2003). </span>
-      <a href="https://pi.math.cornell.edu/~hatcher/VBKT/VB.pdf" target="_blank" rel="noopener">PDF (Hatcher)</a>.
-    </li>
-    <li>
-      <cite>Karoubi [Kar], Max.</cite>
-      <span><em>K-Theory: An Introduction</em>.</span>
-      <span> Springer-Verlag, 1978. </span>
-      <a href="https://web.ma.utexas.edu/users/abhishek/files/k-theory/karoubi.pdf" target="_blank" rel="noopener">PDF (Karoubi)</a>.
-    </li>
-  </ul>
+  <li>
+    Allen Hatcher [Hat].
+    <em>Vector Bundles and K-Theory</em> (2003).
+    <a href="https://pi.math.cornell.edu/~hatcher/VBKT/VB.pdf" target="_blank" rel="noopener">PDF</a>.
+  </li>
+  <li>
+    Max Karoubi [Kar].
+    <em>K-Theory: An Introduction.</em>
+    <span> Springer-Verlag, 1978. </span>
+    <a href="https://web.ma.utexas.edu/users/abhishek/files/k-theory/karoubi.pdf" target="_blank" rel="noopener">PDF</a>.
+  </li>
+</ul>
+
+
 
 
 <!-- ### Tentative Schedule -->

@@ -70,33 +70,33 @@ nav: false
     </tr>
     <tr>
       <td>3</td>
+      <td>Exercises and Review</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>4</td>
       <td>Grothendieck Completion & \(K^0\)</td>
       <td>Hat 2.1, Kar 2.2</td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>Generalized Cohomology Theories</td>
       <td>TBD</td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>Bott Periodicity & \(K\)-Theory as a Generalized Cohomology Theory</td>
       <td>Hat 2.2, Kar 2.3–2.5 & 3.1</td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>Computations & Applications: Spheres, Projective Spaces, Division Algebras</td>
       <td>Hat 2.3, Kar 3.2</td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>Fredholm Operators & Clifford Algebras</td>
       <td>Kar 3.3–3.5</td>
-    </tr>
-    <tr>
-      <td>8</td>
-      <td>TBD</td>
-      <td>TBD</td>
     </tr>
     <tr>
       <td>9</td>

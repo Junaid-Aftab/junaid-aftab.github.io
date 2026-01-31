@@ -17,6 +17,7 @@ nav: false
 
 **Description:** Topological K-theory is a generalized cohomology theory built from vector bundles over topological spaces.   It encodes stable isomorphism classes of vector bundles and has deep connections to algebraic topology and geometry. Central results include Bott periodicity and computations of K-groups for familiar spaces such as spheres and projective spaces.   It also serves as a bridge to algebraic K-theory, index theory, and has applications in mathematical physics.  
 
+<!-- 
 **Deadlines:** The following are the key deadlines for the semester:
 <ul>
     <li><strong>September 26</strong> – Submit project prospectus.</li>
@@ -25,6 +26,7 @@ nav: false
     <li><strong>December 5</strong> – Submit the final presentation to <a href="mailto:drpumd@gmail.com">drpumd@gmail.com</a>.</li>
     <li><strong>December 9 &amp; 10</strong> – Student talks scheduled.</li>
 </ul>
+-->
 
 
 **Suggested References:**
@@ -93,32 +95,7 @@ nav: false
       <td>Computations & Applications: Spheres, Projective Spaces, Division Algebras</td>
       <td>Hat 2.3, Kar 3.2</td>
     </tr>
-    <tr>
-      <td>8</td>
-      <td>Fredholm Operators & Clifford Algebras</td>
-      <td>Kar 3.3–3.5</td>
-    </tr>
-    <tr>
-      <td>9</td>
-      <td>TBD</td>
-      <td>TBD</td>
-    </tr>
-    <tr>
-      <td>10</td>
-      <td>TBD</td>
-      <td>TBD</td>
-    </tr>
-    <tr>
-      <td>11</td>
-      <td>TBD</td>
-      <td>TBD</td>
-    </tr>
-    <tr>
-      <td>12</td>
-      <td>Presentation</td>
-      <td>N/A</td>
-    </tr>
-  </tbody>
+   </tbody>
 </table>
 
 

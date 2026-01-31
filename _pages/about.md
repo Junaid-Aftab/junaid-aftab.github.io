@@ -20,20 +20,22 @@ scholar:
 
 ---
 
-Hi! I am a graduate student at [University of Maryland, College Park](https://www-math.umd.edu). 
+I am a graduate student at [University of Maryland, College Park](https://www-math.umd.edu). 
+Previously, I completed my MS in Mathematics at [Kansas State University](https://www.math.ksu.edu) 
+and my BS in Economics & Mathematics at [Lahore University of Management and Sciences](https://lums.edu.pk). 
 
-Previously, I completed my MS in Mathematics at [Kansas State University](https://www.math.ksu.edu) and my BS in Economics & Mathematics at [Lahore University of Management and Sciences](https://lums.edu.pk). 
-
-My research interests lie in the Mathematics of Quantum Information. I am particularly interested in quantum algorithms for scientific computation, quantum machine learning theory, topological phases of matter and topological quantum computation.
+My research interests lie in the mathematics of quantum information, with a focus on quantum algorithms for scientific computation—including linear systems of equations, differential equations, and quantum simulation—as well as quantum machine learning theory, topological phases of matter and quantum error correction.
 
 <!-- 
 * Quantum Algorithms for Scientific Computation
 * Quantum Neural Network Theory
 * Topological Phases of Matter (TPM)
 * Topological Quantum Computation (TQC)
+ (K-theory, bordism, TQFTs)
+ (C*-algebras, operator K-theory)
 -->
 
-The slogan **Pure × Applied** reflects my philosophy in approaching mathematics. I keep an open mind and I am eager to learn new mathematical techniques that can help solve problems I find compelling. In particular, I am interested in applying methods from algebraic topology (K-theory, bordism, TQFTs), category theory, non-commutative geometry (C*-algebras, operator K-theory), and various fields of applied mathematics in my research. 
+The slogan **Pure × Applied** reflects my philosophy in approaching mathematics. I keep an open mind and I am eager to learn new mathematical techniques that can help solve problems I find compelling. In particular, I am interested in applying methods from algebraic topology, non-commutative geometry, category theory and various fields of applied mathematics in my research. 
   
 <!-- 
 * Algebraic Topology: Topological K-Theory; Bordism; TQFTs  

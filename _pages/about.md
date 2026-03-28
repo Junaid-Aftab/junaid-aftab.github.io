@@ -24,7 +24,7 @@ I am a graduate student at [University of Maryland, College Park](https://www-ma
 Previously, I completed my MS in Mathematics at [Kansas State University](https://www.math.ksu.edu) 
 and my BS in Economics & Mathematics at [Lahore University of Management and Sciences](https://lums.edu.pk). 
 
-My research interests lie in the mathematics of quantum information, with a focus on quantum algorithms for scientific computation—including linear systems of equations, differential equations, and quantum simulation—as well as quantum machine learning theory, topological phases of matter and quantum error correction.
+My research interests lie in the mathematics of quantum information, with a focus on quantum algorithms for scientific computation—including linear systems of equations, differential equations, and quantum simulation—as well as topological phases of matter and quantum error correction. 
 
 <!-- 
 * Quantum Algorithms for Scientific Computation

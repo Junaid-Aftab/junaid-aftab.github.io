@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: PhD Student || Mathematician ||
+subtitle: Incoming Visiting Assistant Professor || Mathematician || Quantum Information
 
 profile:
   align: center
@@ -20,24 +20,16 @@ scholar:
 
 ---
 
-I am a graduate student at [University of Maryland, College Park](https://www-math.umd.edu). 
-Previously, I completed my MS in Mathematics at [Kansas State University](https://www.math.ksu.edu) 
-and my BS in Economics & Mathematics at [Lahore University of Management and Sciences](https://lums.edu.pk). 
+Starting in Fall 2026, I will be a Visiting Assistant Professor at the [University of Michigan](https://lsa.umich.edu/math).
 
-My research interests lie in the mathematics of quantum information, with a focus on quantum algorithms for scientific computation—including linear systems of equations, differential equations, and quantum simulation—as well as topological phases of matter and quantum error correction. 
+I received my PhD at [University of Maryland, College Park](https://www-math.umd.edu). Prior to that, I completed my MS in Mathematics at [Kansas State University](https://www.math.ksu.edu) and my BS in Economics & Mathematics at [Lahore University of Management Sciences](https://lums.edu.pk). 
 
-<!-- 
-* Quantum Algorithms for Scientific Computation
-* Quantum Neural Network Theory
-* Topological Phases of Matter (TPM)
-* Topological Quantum Computation (TQC)
- (K-theory, bordism, TQFTs)
- (C*-algebras, operator K-theory)
--->
+My research interests lie in the mathematics of quantum information, with a focus on quantum algorithms, topological phases of matter and quantum error correction. I also have broader interests in the mathematical foundations of AI, formalization of mathematics, and AI-assisted mathematical research.
 
-The slogan **Pure × Applied** reflects my philosophy in approaching mathematics. I keep an open mind and I am eager to learn new mathematical techniques that can help solve problems I find compelling. In particular, I am interested in applying methods from algebraic topology, non-commutative geometry, category theory and various fields of applied mathematics in my research. 
+The slogan **Pure × Applied** reflects my philosophy in approaching mathematics. I keep an open mind and I am always open to learning new mathematical techniques that can help solve problems I find interesting. In particular, I am interested in applying methods from algebraic topology, non-commutative geometry, category theory and various fields of applied mathematics in my research. 
   
 <!-- 
+, including linear systems of equations, differential equations, and quantum simulation.
 * Algebraic Topology: Topological K-Theory; Bordism; TQFTs  
 * Category Theory  
 * Noncommutative Geometry: C*-Algebras; Operator K-Theory  

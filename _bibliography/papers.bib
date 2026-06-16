@@ -1,3 +1,16 @@
+@article{aftab2026LCHS,
+      title={Linear Combination of Hamiltonian Simulation with Commutator Scaling}, 
+      author={Junaid Aftab and Dong An and },
+      abbr={arXiv},
+      eprint={2606.11475},
+      arxiv={arXiv:2606.11475},
+      archivePrefix={arXiv},
+      year={2026},
+      %journal={Submitted to SIAM Journal on Scientific Computation},
+      abstract={The Linear Combination of Hamiltonian Simulation (LCHS) framework simulates dissipative linear dynamics by representing time evolution as an integral over unitary operators, which is discretized by quadrature and implemented via Hamiltonian simulation. While existing analyses achieve near-optimal scaling in time and precision using norm-based quantities of the dissipative generator, we show that implementing the Hamiltonian simulation steps with Multi-Product Formulas (MPFs) yields commutator-sensitive error and complexity bounds. We demonstrate that the quadrature rule affects not only discretization error but also commutator structure and query complexity. This dependence is quantified through post-quadrature analysis for abstract MPF error profiles and for general time-independent and local Hamiltonians using known commutator-sensitive MPF error estimates. We compare uniform trapezoidal and free-scale sinh--sinh quadrature, showing improved quadrature-cardinality scaling for the latter, and illustrate the framework with applications to fractional diffusion, advection--diffusion, and open quantum systems.
+      },
+}
+
 @article{aftab2026nonuniform,
       title={Non-Uniform Quantum Fourier Transform}, 
       author={Junaid Aftab and Yuehaw Khoo and Haizhao Yang},
@@ -21,7 +34,7 @@
 	archivePrefix={arXiv},
 	arxiv={arXiv:2506.01811},
 	year={2025},
-	j%ournal={Submitted to Quantum},
+	j%ournal={Submitted to Research in the Mathematical Sciences},
 	abstract={This work investigates the expressive power of quantum circuits in approximating high-dimensional, real-valued functions. We focus on countably-parametric holomorphic maps $u:U\to\mathbb\{R\}$, where the parameter domain is $U=[-1,1]^\{\mathbb\{N\}\}$. We establish dimension-independent quantum circuit approximation rates via the best $n$-term truncations of generalized polynomial chaos (gPC) expansions of these parametric maps, demonstrating that these rates depend solely on the summability exponent of the gPC expansion coefficients. The key to our findings is based on the fact that so-called ``$(b,\epsilon)$-holomorphic'' functions, where $b\in(0,1]^\{\mathbb\{N\}\}\cap\ell^\{p\}(\mathb	b\{N\})$ for some $p\in(0,1)$, permit structured and sparse gPC expansions. Then, $n$-term truncated gPC expansions are known to admit approximation rates of order $n^\{-1/p+1/2\}$ in the $L^2$ norm and of order $n^\{-1/p+1\}$ in the $L^\infty$ norm. We show the existence of parameterized quantum circuit (PQC) encodings of these $n$-term truncated gPC expansions, and bound PQC depth and width via (i) tensorization of univariate PQCs that encode Chebyšev polynomials in $[-1,1]$ and (ii) linear combination of unitaries (LCU) to build PQC emulations of $n$-term truncated gPC expansions. The results provide a rigorous mathematical foundation for the use of quantum algorithms in high-dimensional function approximation. As countably-parametric holomorphic maps naturally arise in parametric PDE models and uncertainty quantification (UQ), our results have implications for quantum-enhanced algorithms for a wide range of maps in applications.
 	},
 }
@@ -51,7 +64,7 @@
   	archivePrefix={arXiv},
   	arxiv={arXiv:2403.08922},
   	year={2024},
-  	journal={Submitted to Communications in Mathematical Physics},
+  	%journal={Submitted to Communications in Mathematical Physics},
   	code={https://github.com/Junaid-Aftab/MPF_Commutator_Scaling},
   	abstract={The well-conditioned multi-product formula (MPF), proposed by [Low, Kliuchnikov, and Wiebe,
   	2019], is a simple high-order time-independent Hamiltonian simulation algorithm that implements a linear

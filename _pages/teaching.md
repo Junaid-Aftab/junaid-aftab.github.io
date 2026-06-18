@@ -18,7 +18,7 @@ nav_order: 3
 
   <li>
     <span class="badge">MATH 141</span> <strong>Calculus II</strong> (Summer '22)  
-    %<a href="/teaching/summer22/math141/">Course Page</a>
+    <!-- <a href="/teaching/summer22/math141/">Course Page</a> -->
   </li>
 </ul>
 

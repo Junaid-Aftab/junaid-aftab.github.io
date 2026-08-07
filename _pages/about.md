@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Incoming Visiting Assistant Professor || Mathematician || Quantum Information
+subtitle: || Mathematician || Postdoctoral Assistant Professor ||Quantum Information
 
 profile:
   align: center
@@ -20,7 +20,7 @@ scholar:
 
 ---
 
-Starting in Fall 2026, I will be a Visiting Assistant Professor at the [University of Michigan](https://lsa.umich.edu/math).
+I am currently a Postdoctoral Assistant Professor at the [University of Michigan](https://lsa.umich.edu/math).
 
 I received my PhD at [University of Maryland, College Park](https://www-math.umd.edu). Prior to that, I completed my MS in Mathematics at [Kansas State University](https://www.math.ksu.edu) and my BS in Economics & Mathematics at [Lahore University of Management Sciences](https://lums.edu.pk). 
 

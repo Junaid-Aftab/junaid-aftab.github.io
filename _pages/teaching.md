@@ -7,6 +7,17 @@ nav: true
 nav_order: 3
 ---
 
+### University of Michigan
+
+<ul>
+  <li>
+    <span class="badge">MATH 241</span> <strong>Applied Linear Algebra</strong> (Fall '26)<a href="/teaching/fall26/math241/">Course Page</a>
+  </li>
+</ul>
+
+##### Instructor
+
+
 ### University of Maryland
 
 ##### Instructor
@@ -17,8 +28,7 @@ nav_order: 3
   </li>
 
   <li>
-    <span class="badge">MATH 141</span> <strong>Calculus II</strong> (Summer '22)  
-    <!-- <a href="/teaching/summer22/math141/">Course Page</a> -->
+    <span class="badge">MATH 141</span> <strong>Calculus II</strong> (Summer '22) <a href="/teaching/summer22/math141/">Course Page</a>
   </li>
 </ul>
 

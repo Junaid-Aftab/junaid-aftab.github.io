@@ -10,8 +10,7 @@ nav: false
 
 **Instructor:** Junaid Aftab  
 **Email:** [junaida@umd.edu](mailto:junaida@umd.edu)  
-**Meeting Times:** MTuWThF: 9:30 AM – 10:50 AM   
-**ELMS:** Click [here](https://umd.instructure.com/courses/1333003) to access course page on ELMS  	   
+**Meeting Times:** MTuWThF: 9:30 AM – 10:50 AM     
 **Location:** Online via Zoom (link posted on ELMS)  
 **Office Hours:** Fridays, 11:00 A.M – 12:00 P.M. Online via Zoom (link posted on ELMS)  
 

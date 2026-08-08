@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: || Mathematician || Postdoctoral Assistant Professor ||Quantum Information
+subtitle: Mathematician || Postdoctoral Assistant Professor ||Quantum Information
 
 profile:
   align: center

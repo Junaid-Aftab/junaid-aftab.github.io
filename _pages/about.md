@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Mathematician || Postdoctoral Assistant Professor
+subtitle: Mathematician || Postdoctoral Assistant Professor 
 
 profile:
   align: center

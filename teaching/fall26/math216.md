@@ -39,7 +39,11 @@ There will be attendance, group quizzes, two midterm exams, and a final exam.
   <tbody>
     <tr>
       <td>Gateway</td>
-      <td>2.5%</td>
+      <td>5%</td>
+    </tr>
+    <tr>
+      <td>Attendance</td>
+      <td>5%</td>
     </tr>
     <tr>
       <td>Written Homework</td>
@@ -51,19 +55,19 @@ There will be attendance, group quizzes, two midterm exams, and a final exam.
     </tr>
     <tr>
       <td>Projects</td>
-      <td>15% (7.5% each)</td>
-    </tr>
-    <tr>
-      <td>Final Group Project</td>
-      <td>7.5%</td>
+      <td>15% (5% each)</td>
     </tr>
     <tr>
       <td>Two Midterms</td>
-      <td>25% (12.5% each)</td>
+      <td>30% (15% each)</td>
     </tr>
     <tr>
       <td>Final Exam</td>
-      <td>12.5%</td>
+      <td>15%</td>
+    </tr>
+    <tr>
+      <td>Bonus Homework</td>
+      <td>1%</td>
     </tr>
   </tbody>
 </table>

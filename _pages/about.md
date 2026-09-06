@@ -37,7 +37,7 @@ The slogan **Pure × Applied** reflects my philosophy in approaching mathematics
   
   *“There is no branch of mathematics, however abstract, which may not someday be applied to the real world.”* – Nikolai Lobachevsky
   
-   **Email:** [junaida@umd.edu](mailto:junaida@umd.edu)
+   **Email:** [junaida@umich.edu](mailto:junaida@umich.edu)
   
   **Links**:  [Curriculum Vitae]({% link /assets/pdf/CV/CV.pdf %})
   ||  <a href="https://arxiv.org/search/quant-ph?query=Aftab%2C+Junaid&searchtype=author&abstracts=show&order=-announced_date_first&size=50" target="_blank">arXiv</a>

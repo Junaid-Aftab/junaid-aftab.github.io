@@ -161,10 +161,10 @@ Exam 3 Review<br>
     <tr>
       <td>1</td>
       <td>
-        
+        Introduction, Linear Equations (§1.1, 1.2)
       </td>
       <td>
-    
+       Systems of Linear Equations, Matrix Algebra (§1.2, 1.3)
       </td>
     </tr>
   </tbody>

@@ -167,6 +167,15 @@ Exam 3 Review<br>
        Systems of Linear Equations, Matrix Algebra (§1.2, 1.3)
       </td>
     </tr>
+    <tr>
+      <td>2</td>
+      <td>
+        Linear Maps (§2.1)
+      </td>
+      <td>
+       Geometry of Linear Maps (§2.2)
+      </td>
+    </tr>
   </tbody>
 </table>
 

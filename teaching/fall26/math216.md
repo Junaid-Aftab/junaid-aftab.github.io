@@ -176,6 +176,24 @@ Exam 3 Review<br>
        Geometry of Linear Maps (§2.2)
       </td>
     </tr>
+    <tr>
+      <td>3</td>
+      <td>
+        Composition of Linear Maps (§2.3)
+      </td>
+      <td>
+       Inverses of Linear Maps (§2.4)
+      </td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>
+        Subspaces (§3.1)
+      </td>
+      <td>
+       Span, Linear Independence, Basis (§3.2)
+      </td>
+    </tr>
   </tbody>
 </table>
 

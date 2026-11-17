@@ -32,7 +32,7 @@ There will be attendance, group quizzes, two midterm exams, and a final exam.
   <thead>
     <tr>
       <th>Component</th>
-      <th>Weight</th>
+      <th>Weightt</th>
     </tr>
   </thead>
   <tbody>

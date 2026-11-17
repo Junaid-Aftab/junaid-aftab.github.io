@@ -11,7 +11,7 @@ nav_order: 3
 
 <ul>
   <li>
-    <span class="badge">MATH 241</span> <strong>Applied Linear Algebra</strong> (Fall '26)<a href="/teaching/fall26/math241/">Course Page</a>
+    <span class="badge">MATH 214</span> <strong>Applied Linear Algebra</strong> (Fall '26)<a href="/teaching/fall26/math214/">Course Page</a>
   </li>
 </ul>
 

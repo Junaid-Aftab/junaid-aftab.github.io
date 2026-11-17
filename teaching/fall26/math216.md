@@ -1,8 +1,8 @@
 ---
-title: "MATH 241 – Applied Linear Algebra"
+title: "MATH 214 – Applied Linear Algebra"
 layout: page
-permalink: /teaching/fall26/math241/
-description: "This is the Fall 2026 webpage for the course MATH 241: Applied Linear Algebra."
+permalink: /teaching/fall26/math214/
+description: "This is the Fall 2026 webpage for the course MATH 214: Applied Linear Algebra."
 nav: false
 ---
 
@@ -12,10 +12,9 @@ nav: false
 **Email:** [junaida@umich.edu](mailto:junaida@umich.edu)   
 **Meeting Times:** TuTh: 4:00 PM – 6:00 PM (Section 003) and 6:00 PM – 8:00 PM (Section 004)  
 **Location:** 1250 Undergraduate Sciences Building (USB)  
-**Office Hours:** TBA.
 
 
-**Description:**  Math 241 (Applied Linear Algebra) introduces the fundamental concepts of linear algebra, including systems of linear equations, matrix operations,  Euclidean vector spaces, linear independence, span, eigenvalues and eigenvectors. The course provides the foundation needed to understand a wide range of applications of linear algebra, such as linear programming,  linear differential equations and mathematical economics.
+**Description:**  Math 214 (Applied Linear Algebra) introduces the fundamental concepts of linear algebra, including systems of linear equations, matrix operations,  Euclidean vector spaces, linear independence, span, eigenvalues and eigenvectors. The course provides the foundation needed to understand a wide range of applications of linear algebra, such as linear programming,  linear differential equations and mathematical economics.
 
 **Prerequisites:** Students registering for this class must have completed MATH 116, 156, 186, 276, or 296.
 
@@ -157,6 +156,7 @@ Exam 3 Review<br>
       <th>Thursday</th>
     </tr>
   </thead>
+
   <tbody>
     <tr>
       <td>1</td>
@@ -164,34 +164,97 @@ Exam 3 Review<br>
         Introduction, Linear Equations (§1.1, 1.2)
       </td>
       <td>
-       Systems of Linear Equations, Matrix Algebra (§1.2, 1.3)
+        Systems of Linear Equations, Matrix Algebra (§1.2, 1.3)
       </td>
     </tr>
+
     <tr>
       <td>2</td>
       <td>
         Linear Maps (§2.1)
       </td>
       <td>
-       Geometry of Linear Maps (§2.2)
+        Geometry of Linear Maps (§2.2)
       </td>
     </tr>
+
     <tr>
       <td>3</td>
       <td>
         Composition of Linear Maps (§2.3)
       </td>
       <td>
-       Inverses of Linear Maps (§2.4)
+        Inverses of Linear Maps (§2.4)
       </td>
     </tr>
+
     <tr>
       <td>4</td>
       <td>
         Subspaces (§3.1)
       </td>
       <td>
-       Span, Linear Independence, Basis (§3.2)
+        Span, Linear Independence, Basis (§3.2)
+      </td>
+    </tr>
+
+    <tr>
+      <td>5</td>
+      <td>
+        Dimension (§3.3)
+      </td>
+      <td>
+        Coordinates (§3.4)
+      </td>
+    </tr>
+
+    <tr>
+      <td>6</td>
+      <td>
+        No Class
+      </td>
+      <td>
+        Review for Exam 1
+      </td>
+    </tr>
+
+    <tr>
+      <td>7</td>
+      <td>
+        Orthogonality (§5.1)
+      </td>
+      <td>
+        Gram-Schmidt, QR Factorization (§5.2)
+      </td>
+    </tr>
+
+    <tr>
+      <td>8</td>
+      <td>
+        Fall Break
+      </td>
+      <td>
+        Orthogonal Matrices, Least Squares (§5.3-5.4)
+      </td>
+    </tr>
+
+    <tr>
+      <td>9</td>
+      <td>
+        Determinants I (§6.1-6.2)
+      </td>
+      <td>
+        Determinants II (§6.2-6.3)
+      </td>
+    </tr>
+
+    <tr>
+      <td>10</td>
+      <td>
+        Review for Exam 2
+      </td>
+      <td>
+        Review for Exam 2
       </td>
     </tr>
   </tbody>
